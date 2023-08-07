@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について説明します。
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 28%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    + [カスタマージャーニー](./solution-categories/customer-journeys.md)
    + [データインサイトとアクティベーション](./solution-categories/data-insights.md)
    + [規模に応じたパーソナライゼーション](./solution-categories/personalization.md)
-+ アプリケーションの統合{#integrations-between-applications}
++ 製品の統合{#integrations-between-applications}
    + [概要](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
