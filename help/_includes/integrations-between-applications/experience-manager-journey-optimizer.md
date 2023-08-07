@@ -1,0 +1,49 @@
+---
+source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 12%
+
+---
+
+
+# Journey OptimizerとExperience Manager Assets Essentials
+
+{{journey-optimizer-description}}
+
+{{experience-manager-description}}
+
+Adobe Journey OptimizerとExperience Manager Assets Essentials の統合には、次のようないくつかの利点があります。
+
++ **効率的なコンテンツ配信**：パーソナライズされたコンテンツでシームレスに共同作業します。
++ **マーケティング効率の向上**：時間を節約し、キャンペーンの一貫性を確保します。
++ **データドリブン型パーソナライゼーション**：価値あるインサイトを使用してコンテンツを調整します。
++ **バージョン管理とガバナンス**：一貫したブランドメッセージを維持します。
++ **合理化されたコラボレーション**：チームワークを促進し、ワークフローをスムーズにします。
+
+## 一般的な統合
+
+<table>
+    <thead>
+        <tr>
+            <th>Experience Cloud</th>
+            <th>統合の条件</th>
+            <th>使用するタイミング</th>
+            <th>よくあるユースケース</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ja" target="_blank" rel="noreferrer">Journey OptimizerとAEM Assets Essentials</a></td>
+            <td>Asset Essentials は、Journey Optimizerに埋め込まれています</td>
+            <td>
+                <ul style="margin-top: 0;">
+                    <li>承認済みのブランドアセットを使用してマーケティング資料を作成する必要がある場合。</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="margin-top: 0;"><li>Journey Optimizerの E メールデザイナーでコンテンツを作成します。</li></ul>
+            </td>
+        </tr>        
+    </tbody>          
+</table>
