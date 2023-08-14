@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Cloudアプリケーションの統合設定 — ソリューション別
-description: ソリューション別に整理されたAdobe Experience Cloudアプリケーションの一般的な統合設定です。
+description: ソリューション別に整理された、Adobe Experience Cloud アプリケーションの一般的な統合設定です。
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 

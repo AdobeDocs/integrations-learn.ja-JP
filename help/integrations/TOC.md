@@ -1,12 +1,12 @@
 ---
-user-guide-title: Experience Cloud統合チュートリアル
+user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
-user-guide-description: 統合について説明します。
+user-guide-description: 統合について学びます。
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
