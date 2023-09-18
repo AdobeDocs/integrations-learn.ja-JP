@@ -1,21 +1,19 @@
 ---
-title: Adobe Experience Cloudアプリケーションの統合設定
-description: Adobe Experience Cloud製品の一般的な統合設定です。
-source-git-commit: 0dfb1462ea2b4c1dd1b3e83a2ffa39794f3b0246
+title: アプリケーションの統合
+description: アプリケーションアプリケーションを統合するための一般的なExperience Cloud設定について説明します。 Adobeのクラス最高のエンタープライズ製品が、ビジネス上の課題に対するお客様の取り組みにどのように役立つかを説明します。
+source-git-commit: e1655ab856d4623e4bbef0eb8099d94427cc3e62
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 1%
 
 ---
 
 
-# Adobe Experience Cloud製品の統合設定
+# Experience Cloud・アプリケーションの統合構成
 
-Adobe Experience Cloud製品に詳しく、統合する最適な方法が不明な場合や、達成しようとしているビジネス目標は把握しているが、使用すべきAdobe Experience Cloud製品が不明な場合は、適切な場所が見つかりました。
+Experience Cloud・アプリケーションに詳しいのですが、統合のベスト・プラクティスが不明な場合は、 ビジネス目標は把握していますが、どのアプリケーションを使用するかは不明ですか。 それなら、正しい場所に来たのね！
 
-ビジネスソリューションおよびAdobe製品別に整理された、最も一般的なAdobe Experience Cloud製品統合を見つけることができます。
-
-Adobe製品を設定する方法は多数あり、環境に大きく依存します。  これらのチュートリアルとビデオを、環境のニーズに合わせて現状のままデプロイしたり、変更したりする際のガイダンスとして使用します。
+これらのExperience Cloud統合チュートリアルでは、利用可能な最も一般的なアプリケーション統合の一部を説明します。 設定オプションは環境によって異なるので、ビジネスソリューションやアプリケーション別に統合を整理しています。 これらのチュートリアルとビデオを、そのままデプロイするためのガイダンスとして使用するか、環境のニーズに合わせて変更できます。
 
 <table>
 <tr>
@@ -28,15 +26,15 @@ Adobe製品を設定する方法は多数あり、環境に大きく依存しま
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">製品別</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">適用別</a></strong></div>
       <p>
-        使用するAdobe製品と、その統合方法を学びたい場合があります。
+        使用するAdobeアプリケーションと、それらの統合方法を学びたい場合があります。
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">ビジネスソリューション別</a></strong></div>
       <p>
-        お客様が求めているビジネスソリューションは把握していますが、どのAdobe製品を使用するかは不明です。
+        お客様が求めているビジネスソリューションは把握していますが、どのAdobe・アプリケーションを使用するかは不明です。
       </p>
    </td>  
 </tr>   
