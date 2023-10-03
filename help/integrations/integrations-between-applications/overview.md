@@ -1,17 +1,19 @@
 ---
-title: Adobe Experience Cloudアプリケーションの統合設定 — 製品別
-description: 製品別に整理された、Adobe Experience Cloud アプリケーションの一般的な統合設定です。
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: 統合の設定 — アプリケーション別
+description: アプリケーション別に整理された、Experience Cloudの一般的な統合設定について説明します。
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Experience Cloudの統合設定 — アプリケーション別に整理
 
-# Adobe Experience Cloud製品の統合設定 — 製品別
+この節では、Adobe・アプリケーションに精通しているユーザーが、複数のAdobe・アプリケーションを統合してビジネス・バリューを創出したいと考えている場合に役立ちます。 アドビでは、Adobeのエンタープライズアプリケーションに対して多くの共通の統合設定を整理し、実際の使用例にマッピングしました。
 
-このセクションは、Adobe製品に精通し、複数のAdobe製品を統合してビジネス価値を創出したいと考える方を支援します。  アドビでは、エンタープライズ製品に関する多くの共通の統合Adobeを整理し、実際の使用例にマッピングしています。  環境に応じて、Adobe製品を設定する方法は多数あります。  このセクションの目的は、環境のニーズに合わせてそのままデプロイまたは変更できるガイダンスを提供することです。
+環境に応じて、Adobeアプリケーションを設定する方法は多数あります。 この節では、そのままデプロイするか、環境のニーズに合わせて変更する際に役立つガイダンスを提供します。
 
 >[!NOTE]
 >

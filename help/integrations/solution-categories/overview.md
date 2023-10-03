@@ -1,17 +1,19 @@
 ---
-title: Adobe Experience Cloudアプリケーションの統合設定 — ソリューション別
-description: ソリューション別に整理された、Adobe Experience Cloud アプリケーションの一般的な統合設定です。
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: アプリケーション統合の構成 — ビジネスソリューション別
+description: ビジネスソリューション別に整理された、Experience Cloudアプリケーションの一般的な統合設定について説明します。
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 11%
+source-wordcount: '183'
+ht-degree: 4%
 
 ---
 
+# Experience Cloudの統合設定 — ソリューション別に整理
 
-# Adobe Experience Cloudアプリケーションの統合設定 — ソリューション別
+このセクションは、ビジネスニーズに対応しますが、どのAdobeアプリケーションを使用して統合するかという不明な点について説明します。 ソリューション（B2B マーケティング、コンテンツサプライチェーン、データインサイトとアクティベーションなど）別に整理された、最も一般的な統合設定の多くを次に示します。
 
-このセクションは、ビジネスニーズがあるが、使用するAdobe製品とその統合方法が不明なユーザーに役立ちます。  ソリューションカテゴリ別に、Adobeのエンタープライズ製品に最も一般的な統合構成の多くを整理しました。  環境に応じて、Adobe製品を設定する方法は多数あります。  このセクションの目的は、環境のニーズに合わせてそのままデプロイまたは変更できるガイダンスを提供することです。
+環境に応じて、Adobeアプリケーションを設定する方法は多数あることに注意してください。 この節の目的は、環境のニーズに合わせてそのままデプロイしたり、変更したりできるガイダンスを提供することです。
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ ht-degree: 11%
     </td>
    <td>
       <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B および B2C デジタルコマース
       </p>
@@ -69,4 +71,3 @@ ht-degree: 11%
       </p>
    </td>
 </table>
-
