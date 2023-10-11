@@ -1,6 +1,6 @@
 ---
 title: ' [!DNL Analytics]  と  [!DNL Target] の統合'
-description: Adobeの統合方法 [!DNL Analytics] Adobe [!DNL Target].
+description: Adobeの統合方法 [!DNL Analytics] Adobe Target
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: analytics-target.png
 badgeIntegration: label="統合" type="positive"
 last-substantial-update: 2023-04-11T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: e4fa89bb-cc84-442e-86bd-5b1c89ff8011
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '12'
-ht-degree: 41%
+source-wordcount: '13'
+ht-degree: 38%
 
 ---
-
 
 # [!DNL Analytics] と [!DNL Target] の統合
 

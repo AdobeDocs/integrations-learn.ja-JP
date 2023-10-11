@@ -1,13 +1,13 @@
 ---
-title: B2B マーケティング
+title: B2B マーケティング用アプリケーション統合
 description: 統合された顧客プロファイルとデータに基づいて、チャネルをまたいでリード管理、ABM、およびアトリビューションを大規模に調整します。
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
-
 
 # B2B マーケティング
 
