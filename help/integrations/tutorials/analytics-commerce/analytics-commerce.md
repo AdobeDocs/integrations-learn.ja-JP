@@ -1,6 +1,6 @@
 ---
 title: 統合 [!DNL Analytics] 次を使用 [!DNL Commerce] チュートリアル
-description: ' [!DNL Analytics] と [!DNL Commerce] を統合する方法について説明します。 '
+description: ' [!DNL Analytics] と [!DNL Commerce] を統合する方法について説明します。'
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="統合" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
+source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
-source-wordcount: '887'
-ht-degree: 6%
+source-wordcount: '821'
+ht-degree: 3%
 
 ---
-
 
 # [!DNL Analytics] と [!DNL Commerce] の統合
 
@@ -50,12 +50,12 @@ ht-degree: 6%
 
 1. Adobeでの新しいレポートスイートの作成 [!DNL Analytics]または、プッシュするレポートスイートの ID を特定します。 [!DNL Commerce] データをに送信します。 詳しくは、 [新しいレポートスイートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja). このレポートスイート ID は、以下のデータストリーム手順で必要になります。
 
-1. 次に移動： [Adobe Experience [!DNL Platform] インターフェイス](https://platform.adobe.com) Experience にアクセスできる場合 [!DNL Platform]. そのインターフェイスにアクセスできない場合は、Adobe Experience で以下に示す必要な手順をすべて実行できます [!DNL Platform] [データ収集インターフェイス](https://experience.adobe.com/#/data-collection).
+1. 次に移動： [Adobe体験 [!DNL Platform] インターフェイス](https://platform.adobe.com) Experience にアクセスできる場合 [!DNL Platform]. そのインターフェイスにアクセスできない場合は、Adobeエクスペリエンスで以下に示す必要な手順をすべて実行できます [!DNL Platform] [データ収集インターフェイス](https://experience.adobe.com/#/data-collection).
 
 1. で XDM スキーマを作成または更新します。 [!DNL Commerce] — 特定のフィールドグループ。 スキーマの作成方法について詳しくは、 [「スキーマの作成」](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja) チュートリアル
    * このスキーマは、以下のデータストリーム手順のオプションから選択する必要があります。 スキーマを作成するには、左の列のを見て、 **データ管理** 検索 **スキーマ**. インターフェイスの右上で、 **スキーマを作成**. 「XDM ExperienceEvent」を選択します。
    * 新しいスキーマを作成した後、 [!DNL Commerce] フィールドグループを使用します。 UI の左側で、フィールドグループを探し、 **追加**
-      * 検索では、 `ExperienceEvent [!DNL Commerce]`
+      * 検索では、 `ExperienceEvent Commerce`
       * を選択します。 **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** ボックスをオンにして
       * 次に、「 **フィールドグループを追加** 右上で保存して続行する
 
@@ -75,7 +75,7 @@ ht-degree: 6%
    * クリック **保存** をクリックして続行します。
    * クリック **サービスを追加** を選択します。 **Adobe[!DNL Analytics]** 」と入力します。
    * クリック **レポートスイートの追加** をクリックし、前の手順で作成または識別したレポートスイート ID を入力します。 データを複数のレポートスイートに表示する場合は、複数のレポートスイートを追加できます。
-   * （オプション）前の手順でデータセットを作成した場合は、 **サービスを追加** 再び選択 **Adobe Experience[!DNL Platform]** 」をクリックします。 「イベントデータセット」フィールドで、以前に作成したデータセットを選択します。
+   * （オプション）前の手順でデータセットを作成した場合は、 **サービスを追加** 再び選択 **Adobe体験[!DNL Platform]** 」をクリックします。 「イベントデータセット」フィールドで、以前に作成したデータセットを選択します。
    * データストリームを保存します。
 
 1. 最後に、 [!DNL Commerce] データを使用する場合は、AdobeでAnalysis Workspaceに移動する必要があります [!DNL Analytics]、プロジェクトを作成、レポートスイートを選択、フリーフォームテーブルやその他のビジュアライゼーションを追加して、レポートおよび分析します [!DNL Commerce] データ。 次の図は、Analysis Workspaceで作成できるテーブルの例を示しています。
@@ -85,8 +85,8 @@ ht-degree: 6%
    以下に、Analysis Workspaceでの作業に役立つその他のリソースを示します。
 
    * [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [ワークスペースプロジェクトを一から作成する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
+   * [Workspace プロジェクトを一から作成する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
    * [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [ビジュアライゼーションのユースケース](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [ビジュアライゼーションの使用例](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   また、無料コースもExperience League。 詳しくは、 [!DNL Analytics] 利用可能なコース [ここ](https://experienceleague.adobe.com/?lang=en&amp;Solution=[!DNL Analytics]#courses) です。
+   また、無料コースもExperience League。 詳しくは、 [!DNL Analytics] 利用可能なコース [ここ](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
