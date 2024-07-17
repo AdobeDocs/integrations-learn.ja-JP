@@ -1,6 +1,6 @@
 ---
-title: 統合顧客ジャーニー [!DNL Analytics] 次を使用 [!DNL Real-Time Customer Data Platform]
-description: 顧客ジャーニーの統合方法 [!DNL Analytics] 次を使用 [!DNL Real-Time Customer Data Platform].
+title: カスタマージャーニー [!DNL Analytics]  と  [!DNL Real-Time Customer Data Platform] の統合
+description: 顧客ジャーニーを  [!DNL Real-Time Customer Data Platform] と統合する方法  [!DNL Analytics]  説明します。
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# 統合顧客ジャーニー [!DNL Analytics] とリアルタイムの顧客データ [!DNL Platform]
+# カスタマージャーニー [!DNL Analytics] と Real-time Customer Data [!DNL Platform] の統合
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

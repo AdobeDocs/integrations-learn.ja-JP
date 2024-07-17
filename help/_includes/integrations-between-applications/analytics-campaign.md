@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
@@ -13,50 +13,50 @@ ht-degree: 6%
 
 {{campaign-description}}
 
-Adobe [!DNL Analytics] Adobeとの統合 [!DNL Campaign] は、シームレスなデータ共有と電子メールトラッキングを可能にし、次のメリットを提供します。
+Adobe[!DNL Analytics]Adobe[!DNL Campaign] との統合により、シームレスなデータ共有とメールトラッキングが可能になり、次のメリットがあります。
 
-+ **KPI データを共有** Adobeから [!DNL Campaign] Adobe [!DNL Analytics].
-+ **トラッキング式のエンリッチメント** Adobe [!DNL Analytics] パラメーター。
-+ トリガーを使用 **パーソナライズメールの送信** 特定の追跡された行動に基づいて
++ **KPI データをAdobe [!DNL Campaign] からAdobe [!DNL Analytics] に共有** します。
++ **トラッキング式をエンリッチメント** し、パラメーター [!DNL Analytics]Adobeを設定します。
++ トリガーを使用して、トラッキングされた特定の行動に基づいて **パーソナライズされたメールを送信** します。
 
 ## 一般的な統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud</th>
-            <th>統合の条件</th>
+            <th>Experience Cloudアプリケーション</th>
+            <th>を使用した統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">[!DNL Campaign] 標準 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">外部 [!DNL Campaign] Adobeにリンクされたアカウント [!DNL Analytics] およびの管理者設定 [!DNL Analytics]</a></td>
+            <td rowspan="2">[!DNL Campaign] 標準（含む） [!DNL Analytics]</td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">のAdobe[!DNL Analytics] 成と管理者設定にリンクされた外部 [!DNL Campaign] アカウント [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>E メール配信の成功を [!DNL Campaign] 直接Adobe [!DNL Analytics].</li>
+                    <li>[!DNL Campaign] からのメール配信の成功をAdobe[!DNL Analytics] で直接トラッキングする場合。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>以下を使用して分析レポートを強化 [!DNL Campaign] 配信データ（送信済みメール、クリック済みメール、開封済みメール、配信済みメール、配信停止、バウンス数を含む）。</li>
-                <li>次のダウンストリームコンバージョンイベントを分析： [!DNL Campaign] フォームのリード、オンラインでの注文、その他のイベントなど、デジタルプロパティにトラフィックを導くクリック数 [!DNL Analytics].</li>
+                <li>送信されたメール、クリックされたメール、開封されたメール、配信されたメール、購読解除、バウンスなどの [!DNL Campaign] 配信データを使用して、分析レポートを強化します。</li>
+                <li>フォームリード、オンライン注文、[!DNL Analytics] でキャプチャされたその他のイベントなど、デジタルプロパティへのトラフィックを促す [!DNL Campaign] 回のクリックに対して、ダウンストリームコンバージョンイベントを分析します。</li>
               </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">Triggers</a></li>
+            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">トリガー</a></li>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>トリガートランザクションメッセージをリアルタイムイベントデータで表示できます。</li>
+                    <li>リアルタイムイベントデータを使用してトランザクションメッセージをトリガー化します。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
                 <li>登録の確認。</li>
-                <li>買い物かごのチェックアウト。</li>
+                <li>買い物かごはチェックアウトしてください。</li>
               </ul>
             </td>
         </tr>              

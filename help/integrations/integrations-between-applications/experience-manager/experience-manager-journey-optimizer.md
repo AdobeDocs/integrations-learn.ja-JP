@@ -1,6 +1,6 @@
 ---
 title: AEMとAdobe Journey Optimizerの統合
-description: AEMとAdobe Journey Optimizerを統合して、カスタマージャーニーを作成および管理します。
+description: AEMとAdobe Journey Optimizerの統合によるカスタマージャーニーの作成と管理
 solution: Experience Manager, Journey Optimizer
 feature: Integrations
 topic: Integrations

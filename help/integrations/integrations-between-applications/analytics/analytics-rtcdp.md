@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Analytics]  と  [!DNL Real-Time Customer Data Platform] の統合'
-description: の統合方法を説明します。 [!DNL Analytics] とリアルタイムの顧客データ [!DNL Platform].
+title: ' [!DNL Real-Time Customer Data Platform] と  [!DNL Analytics]  統合'
+description: リアルタイム顧客デ  [!DNL Analytics]  タ  [!DNL Platform] と統合する方法を説明します。
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -15,10 +15,10 @@ exl-id: 2923b6a3-7133-475e-a896-b4c64ea47ade
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '17'
-ht-degree: 17%
+ht-degree: 5%
 
 ---
 
-# 統合 [!DNL Analytics] とリアルタイムの顧客データ [!DNL Platform]
+# [!DNL Analytics] と Real-Time Customer Data [!DNL Platform] の統合
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}

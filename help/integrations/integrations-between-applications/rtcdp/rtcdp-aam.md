@@ -1,6 +1,6 @@
 ---
-title: 統合 [!DNL Real-Time Customer Data Platform] Audience Manager
-description: リアルタイム顧客データの統合方法を説明します。 [!DNL Platform] Audience Manager
+title: Audience Manager [!DNL Real-Time Customer Data Platform]  の統合
+description: リアルタイム顧客データをAudience Manager [!DNL Platform]  統合する方法を説明します。
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations
@@ -14,7 +14,7 @@ exl-id: b3270603-3b62-4ac7-a6e0-236afba5e462
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '17'
-ht-degree: 17%
+ht-degree: 5%
 
 ---
 

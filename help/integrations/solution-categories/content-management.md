@@ -1,19 +1,19 @@
 ---
 title: コンテンツ管理用のアプリケーション統合
-description: リアルタイムのアセット管理、効率的な配信、パフォーマンス評価を確保しながら、パーソナライズされたデジタルエクスペリエンスを容易に作成できる包括的なソリューションを見つけます。
+description: パーソナライズされたデジタルエクスペリエンスを簡単に作成でき、リアルタイムのアセット管理、効率的な配信、パフォーマンス評価を実現する包括的なソリューションを紹介します。
 exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # コンテンツ管理
 
-今日のデジタル状況では、数百万人の顧客の独自のニーズに応えることが、大きな課題となります。 しかし、それはそこで終わりません。 成功させるには、承認されたアセットを様々なデバイスやチャネルをまたいで迅速に検出、接続、転用できる機能も持っている必要があります。 さらに、これらのエクスペリエンスの効果に関するインサイトを得ることが重要です。
+今日のデジタル環境では、数百万人の顧客固有のニーズに対応することが重要な課題となっています。 しかし、そこで終わるわけではありません。 また、成功するには、世界中の様々なデバイスやチャネルにわたって、承認済みアセットを迅速に検出し、接続し、再利用する機能が必要です。 さらに、これらのエクスペリエンスの有効性に関するインサイトを得ることが重要です。
 
-リアルタイムのアセット管理、効率的な配信、パフォーマンス評価を確保しながら、パーソナライズされたデジタルエクスペリエンスを容易に作成できる包括的なソリューションを見つけます。
+パーソナライズされたデジタルエクスペリエンスを簡単に作成でき、リアルタイムのアセット管理、効率的な配信、パフォーマンス評価を実現する包括的なソリューションを紹介します。
 
 <table>
  <thead>
@@ -26,13 +26,14 @@ ht-degree: 2%
   </thead>
   <tbody>
     <tr>
-      <td><strong>ブランドアセットを使用したマーケティング販促物の作成</strong></td>
+      <td><strong>ブランドアセットを使用したマーケティング用販促物の作成</strong></td>
       <td>
-        AEMとAdobeを使用して、電子メールマーケティングのコンテンツとテンプレートを作成および監視します [!DNL Campaign].
+        AEMとを使用したメールマーケティングコンテンツおよびテンプレートの作成と管理
+        Adobe[!DNL Campaign]。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEMで作成したマーケティングメールの送信</li>
+          <li>AEMで作成されたマーケティングメールの送信</li>
         </ul>
       </td>
       <td>
@@ -40,14 +41,15 @@ ht-degree: 2%
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Campaign] およびAEM</a
+          >[!DNL Campaign] とAEM</a
         >
       </td>
     </tr>
     <tr>
-      <td><strong>マーケティング画像の使用状況とパフォーマンスを測定</strong></td>
+      <td><strong>マーケティング画像の使用状況とパフォーマンスの測定</strong></td>
       <td>
-        AEM AssetsとAdobeを統合して、マーケティング画像の効果を追跡および分析します [!DNL Analytics].
+        統合によるマーケティング画像の効果の追跡と分析
+        AEM AssetsとAdobe[!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -66,15 +68,16 @@ ht-degree: 2%
       </td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>アセット作成を管理</strong></td>
+      <td rowspan="3"><strong>アセット作成の管理</strong></td>
       <td>
-        AEM AssetsとWorkfrontを統合して、企業でのアセット作成の調整と測定をおこないます。
+        企業内でのアセット作成の調整と測定
+        AEM AssetsとWorkfrontの統合
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>エンタープライズアセット管理</li>
-          <li>アセットワークフローを合理化</li>
-          <li>コラボレーションと承認の強化</li>
+          <li>アセットワークフローの効率化</li>
+          <li>共同作業と承認の強化</li>
           <li>プロジェクト管理の改善</li>
         </ul>
       </td>
@@ -89,11 +92,12 @@ ht-degree: 2%
     </tr>
     <tr>
       <td>
-        AEM Assets Essentials とWorkfrontを統合して、部門でのアセット作成の調整と測定をおこないます。
+        部門でのアセット作成の調整と測定
+        AEM Assets Essentials とWorkfrontの統合。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>部門別の資産管理を合理化</li>
+          <li>部門別の資産管理の合理化</li>
           <li>共同作業と承認を有効にする</li>
           <li>プロジェクト管理の改善</li>
         </ul>
@@ -109,13 +113,14 @@ ht-degree: 2%
     </tr>
     <tr>
       <td>
-        Creative CloudおよびWorkfrontアプリケーションにわたるアセットの更新の作成と管理
+        Creative CloudとWorkfrontをまたいだアセットの更新を作成および管理
+        アプリケーション
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>複数のプラットフォームでのアセットのアップロードと共有</li>
-          <li>アセットのレビューと承認プロセスの開始</li>
-          <li>プラットフォーム間でのアセット要件とフィードバックの表示</li>
+          <li>アセットのレビューおよび承認プロセスの開始</li>
+          <li>アセットの要件とプラットフォーム間のフィードバックを表示</li>
         </ul>
       </td>
       <td>
@@ -130,7 +135,8 @@ ht-degree: 2%
     <tr>
       <td><strong>顧客データのキャプチャ</strong></td>
       <td>
-        ネイティブを拡張 [!DNL Campaign] マーケティングキャンペーンのターゲティングとパーソナライゼーションをおこなうために顧客データをキャプチャする機能。
+        の顧客データをキャプチャするためのネイティブ [!DNL Campaign] 機能を拡張
+        マーケティングキャンペーンのターゲティングとパーソナライズ。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -143,19 +149,21 @@ ht-degree: 2%
           href="../integrations-between-applications/experience-manager/experience-manager-campaign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Formsと [!DNL Campaign] 標準</a
+          >AEM Formsおよび [!DNL Campaign] Standard</a
         >
       </td>
     </tr>
     <tr>
-      <td><strong>パーソナライズしたPDFドキュメントの作成</strong></td>
+      <td><strong>パーソナライズされたPDFドキュメントの作成</strong></td>
       <td>
-        ユーザーの選択/環境設定に基づいて署名用の通信ドキュメントを生成します。
+        ユーザーに基づいて署名するための通信ドキュメントを生成します
+        選択/環境設定。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            署名用にAEM Formsの送信からのデータに基づいて、動的に生成される NDA を提示する
+            AEMからのデータに基づいて動的に生成された機密保持契約書（NDA）を提示する
+            署名用のForms送信
           </li>
         </ul>
       </td>
@@ -164,19 +172,21 @@ ht-degree: 2%
           href="../integrations-between-applications/experience-manager//experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms と Acrobat Sign</a
+          >AEM FormsとAcrobat Sign</a
         >
       </td>
     </tr>
     <tr>
-      <td><strong>リードの生成</strong></td>
+      <td><strong>リードを生成</strong></td>
       <td>
-        フォーム送信からキャプチャしたデータを、リードジェネレーション、顧客セグメント化、パーソナライズされたマーケティングキャンペーンに使用します。
+        リードジェネレーションには、フォーム送信から取得したデータを使用します。
+        顧客のセグメント化とパーソナライズされたマーケティングキャンペーン。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            リードジェネレーション用に、Web およびモバイルデバイス用の動的でインタラクティブなフォームをデザインして公開します。
+            Web およびモバイル用の動的でインタラクティブなフォームのデザインと公開
+            リードジェネレーション用のデバイス
           </li>
         </ul>
       </td>
@@ -190,13 +200,14 @@ ht-degree: 2%
       </td>
     </tr>
     <tr>
-      <td><strong>E メール配信をパーソナライズ</strong></td>
+      <td><strong>メール配信のパーソナライズ</strong></td>
       <td>
-        Adobeの機能を活用して、動的コンテンツを使用して E メール配信をパーソナライズ [!DNL Target].
+        を活用して、動的コンテンツでメール配信をパーソナライズします。
+        Adobe[!DNL Target] の機能。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>顧客の E メールにパーソナライズされたオファーを追加</li>
+          <li>パーソナライズされたオファーを顧客のメールに追加</li>
         </ul>
       </td>
       <td>
@@ -209,22 +220,26 @@ ht-degree: 2%
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>パーソナライゼーションおよび広告プラットフォームのオーディエンスの拡張</strong></td>
+      <td rowspan="2"><strong>パーソナライゼーションと広告プラットフォームのオーディエンスを拡張</strong></td>
       <td>
-        Audience Managerセグメントを使用して、リアルタイム CDP でオーディエンスを作成し、パーソナライゼーションおよびリマーケティング戦術で使用します。
+        Audience Managerセグメントを使用して、使用する Real-Time CDP でオーディエンスを作成します
+        パーソナライゼーションとリマーケティング戦術。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Web サイト、モバイルアプリ、またはサポートされる広告チャネルで、匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。
+            で匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行する
+            web サイト、モバイルアプリ、またはサポートされている広告チャネル上
           </li>
           <li>
-            既知のデバイスと行動の特性に基づいて、ランディングページと事前認証エクスペリエンスを最適化する
+            に基づいてランディングページと事前認証エクスペリエンスを最適化
+            既知のデバイスと行動特性
           </li>
           <li>
-            Audience Managerのサードパーティデータネットワークを活用して、ターゲティング用のオーディエンスをさらに絞り込み、拡張します。
+            Audience Managerのサードパーティデータネットワークを活用して、さらに詳しく
+            ターゲティングのためのオーディエンスの調整と拡張
           </li>
-          <li>RTCDP にAudience Managerセグメントを共有する</li>
+          <li>RTCDP へのAudience Managerセグメントの共有</li>
         </ul>
       </td>
       <td>
@@ -232,23 +247,26 @@ ht-degree: 2%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Managerとリアルタイムの顧客データ [!DNL Platform]</a
+          >Audience Managerおよび Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        用途 [!DNL Analytics] パーソナライゼーション戦術またはリマーケティング戦術で使用するオーディエンスを作成するためのデータ。
+        [!DNL Analytics] パーソナライゼーションで使用するオーディエンスを作成するために、または
+        リマーケティング戦術。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            デバイスまたはサポートされる広告チャネルで、デジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。
+            デバイスでデジタルオーディエンスのターゲティングとパーソナライゼーションを実行または
+            サポートされる広告チャネル。
           </li>
           <li>
-            デバイスおよび行動属性に基づいて、既知の顧客ランディングページと匿名エクスペリエンスを最適化します。
+            既知の顧客ランディングページと匿名エクスペリエンスの最適化
+            デバイスと行動の属性に基づいています。
           </li>
-          <li>電子メールや SMS などの既知のチャネルに対してオーディエンスをアクティブ化する。</li>
+          <li>メールや SMS など、既知のチャネルに対してオーディエンスをアクティブ化します。</li>
         </ul>
       </td>
       <td>
@@ -256,20 +274,21 @@ ht-degree: 2%
           href="../integrations-between-applications/analytics/analytics-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] およびリアルタイムの顧客データ [!DNL Platform]</a
+          >[!DNL Analytics] および Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>    
     <tr>
       <td rowspan="2"><strong>Web エクスペリエンスのパーソナライズ</strong></td>
       <td>
-        AEMヘッドレスとAdobeを併用して効果的に利用することで、シングルページアプリケーション (SPA) エクスペリエンスをカスタマイズする [!DNL Target].
+        単一ページアプリケーション（SPA）エクスペリエンスの効果的なカスタマイズ
+        AEM ヘッドレスとAdobe [!DNL Target] の連携の活用
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>シングルページアプリケーションのパーソナライゼーション。</li>
-          <li>パーソナライズされた API 応答。</li>
-          <li>[!DNL Target]ed コンテンツ配信.A/B テストのバリエーション。</li>
+          <li>単一ページアプリケーションのパーソナライゼーション。</li>
+          <li>パーソナライズされた API の応答。</li>
+          <li>[!DNL Target]ed コンテンツ配信。A/B テストのバリエーション。</li>
         </ul>
       </td>
       <td>
@@ -277,18 +296,19 @@ ht-degree: 2%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEMヘッドレスおよび [!DNL Target]</a
+          >AEM ヘッドレスと [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        AEM SitesとAdobeを有効に活用して、カスタマイズされた Web サイトエクスペリエンスを提供 [!DNL Target] パーソナライゼーション用。
+        AEM Sitesを有効活用してカスタマイズされた web サイトエクスペリエンスを提供
+        パーソナライゼーションのためのAdobe[!DNL Target]。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM web サイトのパーソナライゼーション</li>
-          <li>ユーザーエクスペリエンスを最適化する。</li>
+          <li>AEM web サイトのパーソナライズ機能</li>
+          <li>ユーザーエクスペリエンスを最適化します。</li>
           <li>A/B テストのバリエーション。</li>
         </ul>
       </td>
@@ -304,14 +324,15 @@ ht-degree: 2%
     <tr>
       <td><strong>デジタルエクスペリエンスのパーソナライズ</strong></td>
       <td>
-        リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] Web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント
+        リアルタイム顧客プロファイルと一元的に管理される [!DNL Platform] セグメントの使用
+        web、モバイルおよびその他のデジタルチャネルをまたいでメッセージングをパーソナライズするには、次の手順を実行します
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>既知の訪問者に対するコンテンツのパーソナライゼーション</li>
-          <li>ロイヤリティのサインアップと参加を増やす</li>
-          <li>チャーンのリスクがある顧客を特定し、惹きつける</li>
-          <li>リアルタイムオファーパーソナライズ機能</li>
+          <li>ロイヤルティのサインアップと参加の増加</li>
+          <li>チャーンのリスクがある顧客の特定と関与</li>
+          <li>リアルタイムオファーのパーソナライゼーション</li>
         </ul>
       </td>
       <td>
@@ -319,14 +340,15 @@ ht-degree: 2%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>     
     <tr>
       <td><strong>リードジェネレーションの強化</strong></td>
       <td>
-        リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] Web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント
+        リアルタイム顧客プロファイルと一元的に管理される [!DNL Platform] セグメントの使用
+        web、モバイルおよびその他のデジタルチャネルをまたいでメッセージングをパーソナライズするには、次の手順を実行します
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -338,7 +360,7 @@ ht-degree: 2%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>

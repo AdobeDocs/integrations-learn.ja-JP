@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 2%
 
 ---
 
@@ -13,19 +13,19 @@ ht-degree: 5%
 
 {{workfront-description}}
 
-Adobe WorkfrontとAdobe Creative Cloudの統合による主なメリットは、次のとおりです。
+Adobe WorkfrontとAdobe Creative Cloudを統合する主なメリットは次のとおりです。
 
-+ **クリエイティブワークフロー**：統合により、タスク、フィードバックおよびタイムログがCreative Cloudアプリで効率化されます。
-+ **効率的な共同作業**:Workfrontは、クリエイティブな作業のレビュー、承認、チームとの共同作業を容易にします。
-+ **生産性の向上**：シームレスな環境設定により、コンテンツ作成の速度と品質が向上します。
++ **クリエイティブワークフロー**：統合により、Creative Cloudアプリでのタスク、フィードバックおよび時間ログ記録を合理化します。
++ **効率的な共同作業**: Workfrontは、クリエイティブな作業のレビュー、承認、チームの共同作業を促進します。
++ **生産性の向上**：シームレスな環境の環境設定により、コンテンツ作成の速度と品質が向上します。
 
 ## 一般的な統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud</th>
-            <th>統合の条件</th>
+            <th>Experience Cloudアプリケーション</th>
+            <th>を使用した統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
@@ -36,14 +36,14 @@ Adobe WorkfrontとAdobe Creative Cloudの統合による主なメリットは、
             <td>ネイティブコネクタ</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>クリエイティブが、割り当てられた作業を、Creative Cloudのアプリから離れずに検索し、更新する場合。</li>
+                    <li>クリエイティブがCreative Cloudアプリを離れることなく、割り当てられた作業を検索および更新したい場合。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>複数のプラットフォーム間でアセットをアップロードおよび共有する。</li>
-                <li>アセットのレビューと承認のプロセスを開始します。</li>
-                <li>プラットフォームをまたいでアセットの要件とフィードバックを表示します。</li>  
+                <li>複数のプラットフォーム間でのアセットのアップロードと共有。</li>
+                <li>アセットのレビューおよび承認プロセスを開始します。</li>
+                <li>アセットの要件と、プラットフォーム間のフィードバックを表示します。</li>  
               </ul>
             </td>
         </tr>       

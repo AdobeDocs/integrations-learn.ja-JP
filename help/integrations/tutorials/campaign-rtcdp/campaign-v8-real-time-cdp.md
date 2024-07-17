@@ -1,6 +1,6 @@
 ---
-title: 統合 [!DNL Campaign] v8 とReal-Time CDPのチュートリアル
-description: の統合方法を説明します。 [!DNL Campaign] v8 とReal-Time CDP。
+title: ' [!DNL Campaign] v8 とReal-Time CDPの統合のチュートリアル'
+description: ' [!DNL Campaign] v8 をReal-Time CDPと統合する方法を説明します。'
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -20,16 +20,16 @@ ht-degree: 1%
 
 ---
 
-# 統合 [!DNL Campaign] Real-Time CDPとの v8
+# [!DNL Campaign] v8 とReal-Time CDPの統合
 
-## 接続 [!DNL Campaign] エクスペリエンスへ [!DNL Platform] 宛先として
+## [!DNL Campaign] を Experience [!DNL Platform] に接続して宛先にする
 
-Adobe体験の有効化 [!DNL Platform] セグメントを宛先に送信する場合は、Amazon S3 接続タイプを使用します。
+Amazon S3 の接続タイプを使用して、宛先に対してAdobeの Experience [!DNL Platform] セグメントをアクティブ化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
 
-## エクスペリエンスから受信者データをインポート [!DNL Platform] メールを送信します。
+## 受信者データを Experience [!DNL Platform] からインポートしてメールを送信
 
-Adobeでの外部アカウントの設定方法を説明します [!DNL Campaign] 受信者データをAdobeExperience からインポートするには [!DNL Platform] から [!DNL Campaign]. エクスペリエンスから受け取った受信者をアップロードしてターゲティングするワークフローを作成する方法を説明します [!DNL Platform].
+Adobe [!DNL Campaign] で外部アカウントを設定して、受信者データをAdobe Experience [!DNL Platform] から [!DNL Campaign] に読み込む方法を説明します。 Experience [!DNL Platform] から受信した受信者をアップロードおよびターゲットにするワークフローの作成方法を理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)

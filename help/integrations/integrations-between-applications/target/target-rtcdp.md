@@ -1,6 +1,6 @@
 ---
-title: 統合Adobe [!DNL Target] Adobe Real-time Customer Data Platformと
-description: Adobeの統合方法 [!DNL Target] Adobe Real-time Customer Data Platform
+title: Adobe [!DNL Target] Adobe Real-time Customer Data Platformとの統合
+description: AdobeをAdobe Real-time Customer Data Platformと統合  [!DNL Target]  る方法を説明します。
 solution: Target, Real-Time Customer Data Platform
 feature-set: Experience [!DNL Platform], [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles
@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# 統合Adobe [!DNL Target] Adobe Real-time Customer Data Platformと
+# Adobe [!DNL Target] とAdobe Real-time Customer Data Platformの統合
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

@@ -1,6 +1,6 @@
 ---
-title: AEMとの統合 [!DNL Analytics]
-description: Adobe Experience Manager (AEM) との統合 [!DNL Analytics] を使用して、web サイト上のユーザー行動を追跡および分析します。
+title: AEMと  [!DNL Analytics] の統合
+description: Adobe Experience Manager（AEM）とを統合して、web サイト  [!DNL Analytics]  のユーザーの行動をトラッキングおよび分析します。
 solution: Experience Manager, Experience Manager Sites, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# とのExperience Managerの統合 [!DNL Analytics]
+# Experience Managerと [!DNL Analytics] の統合
 
 {{$include /help/_includes/integrations-between-applications/analytics-experience-manager.md}}

@@ -1,6 +1,6 @@
 ---
-title: AEM と Acrobat Sign の統合
-description: Adobe Experience Manager(AEM) とAcrobat Signを統合して、署名用のドキュメントの送信を合理化します。
+title: AEMとAcrobat Signの統合
+description: Adobe Experience Manager（AEM）とAcrobat Signを統合して、署名用のドキュメントの送信を効率化します。
 solution: Experience Manager, Experience Manager Forms, Acrobat Sign
 feature: Integrations
 topic: Integrations
@@ -14,7 +14,7 @@ exl-id: 8051c9e3-fb83-4210-b7a0-89a4d19dd456
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 23%
+ht-degree: 3%
 
 ---
 

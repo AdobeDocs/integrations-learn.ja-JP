@@ -1,6 +1,6 @@
 ---
-title: 統合Adobe [!DNL Experience Platform] AEMを使用
-description: Adobe Experience Manager(AEM) と Experience を統合する方法を説明します [!DNL Platform].
+title: Adobe [!DNL Experience Platform] AEMとの統合
+description: Adobe Experience Manager（AEM）を Experience [!DNL Platform] と統合する方法を説明します。
 solution: Experience [!DNL Platform], Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 ---
 
 
-# Experience Cloud を統合 [!DNL Platform] Experience Manager
+# Experience [!DNL Platform] とExperience Managerの統合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-platform.md}}

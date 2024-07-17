@@ -1,6 +1,6 @@
 ---
 title: WorkfrontとExperience Managerの統合
-description: Adobe Experience Manager(AEM) とWorkfrontを統合して、マーケティング操作を合理化します。
+description: Adobe Experience Manager（AEM）とWorkfrontを統合して、マーケティングオペレーションを効率化します。
 solution: Workfront, Experience Manager, Experience Manager Assets
 feature: Integrations
 topic: Integrations

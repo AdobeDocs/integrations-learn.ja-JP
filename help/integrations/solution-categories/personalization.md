@@ -1,6 +1,6 @@
 ---
-title: 大規模なパーソナライゼーション用アプリケーション統合
-description: パーソナライズされたエクスペリエンスをあらゆるタイミングで利用できます。
+title: 大規模なパーソナライゼーションのためのアプリケーション統合
+description: パーソナライズされたエクスペリエンスをすべての瞬間の一部にします。
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
@@ -9,9 +9,9 @@ ht-degree: 1%
 
 ---
 
-# 規模に応じたパーソナライゼーション
+# 大規模なPersonalization
 
-今日の競争の激しいデジタル駆動型の状況の中で、お客様は独自の好みとニーズに合わせてカスタマイズされたエクスペリエンスを期待するようになりました。 Adobe Experience Cloudの機能を活用することで、広範な顧客データを収集および分析し、行動、興味、好みに関する非常に貴重なインサイトを提供できます。 この深い理解により、様々なタッチポイントにわたってパーソナライズされたエクスペリエンスを容易に配信し、意味のある魅力的なインタラクションを確保できます。 Adobe Experience Cloudの力を活用して、パーソナライゼーションの可能性を最大限に活用し、顧客とのつながりを強化し、ロイヤルティを育成し、ビジネスの成長を促進します。
+今日の競争の激しいデジタル主導の状況の中で、お客様は独自の好みやニーズに合わせたエクスペリエンスを期待するようになっています。 Adobe Experience Cloudの機能を活用することで、お客様の幅広いデータを収集および分析し、行動、興味、好みに関する貴重なインサイトを提供できます。 この深い理解により、様々なタッチポイントをまたいでパーソナライズされたエクスペリエンスの配信が容易になり、有意義で魅力的なインタラクションを実現できます。 Adobe Experience Cloudの機能を活用することで、パーソナライゼーションの可能性を最大限に引き出し、お客様とのつながりを強化し、ロイヤルティを育成し、ビジネスの成長を促進します。
 
 <table>
  <thead>
@@ -24,14 +24,16 @@ ht-degree: 1%
   </thead>
   <tbody>
     <tr>
-      <td><strong>パーソナライズしたPDFドキュメントの作成</strong></td>
+      <td><strong>パーソナライズされたPDFドキュメントの作成</strong></td>
       <td>
-        ユーザーの選択/環境設定に基づいて署名用の通信ドキュメントを生成します。
+        ユーザーに基づいて署名するための通信ドキュメントを生成します
+        選択/環境設定。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            署名用にAEM Formsの送信からのデータに基づいて、動的に生成される NDA を提示する
+            AEMからのデータに基づいて動的に生成された機密保持契約書（NDA）を提示する
+            署名用のForms送信
           </li>
         </ul>
       </td>
@@ -40,25 +42,25 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms and Sign</a
+          >AEM Formsと署名 </a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>データ分析とレポート</strong></td>
       <td>
-        デジタルエクスペリエンスからの行動データの分析 <br />使用Adobe
-        [!DNL Analytics] 顧客ジャーニーのAnalysis Workspaceの行動データ
-        [!DNL Analytics].
+        デジタルエクスペリエンスからの行動データの分析 <br />Adobeの使用
+        カスタマージャーニーでのAnalysis Workspaceの行動データの [!DNL Analytics] り込み
+        [!DNL Analytics]。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>上位/下位コンバージョンパスの分析</li>
-          <li>チャネルのエンゲージメントとコンバージョンの分析</li>
-          <li>最も多く閲覧されたコンテンツを理解する</li>
+          <li>上位/下位の変換パスを分析</li>
+          <li>チャネルエンゲージメントとコンバージョンの分析</li>
+          <li>上位に表示されたコンテンツの理解</li>
           <li>上位の製品カテゴリと製品について</li>
           <li>
-            ツール使用状況分析を実行してセルフサービスエクスペリエンスを最適化する
+            ツールの使用状況の分析を実行して、セルフサービスエクスペリエンスを最適化する
           </li>
         </ul>
       </td>
@@ -67,17 +69,19 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] および顧客ジャーニー [!DNL Analytics]</a
+          >[!DNL Analytics] およびカスタマージャーニー [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        パーソナライゼーションアクティビティのレポート<br />Adobeを利用して、A/B テストを含む最適化テストの結果を分析する [!DNL Target] Adobeを通じた包括的なレポートの生成 [!DNL Analytics].
+        パーソナライゼーションアクティビティ <br /> 最適化の分析のレポート
+        Adobe[!DNL Target] を利用した A/B テストを含むテスト結果
+        Adobe[!DNL Analytics] を通じた包括的なレポートの作成
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>A/B テスト結果をリッチな分析レポートに表示</li>
+          <li>リッチ分析レポートでの A/B テスト結果の表示</li>
         </ul>
       </td>
       <td>
@@ -90,13 +94,14 @@ ht-degree: 1%
       </td>
     </tr>
     <tr>
-      <td><strong>E メール配信をパーソナライズ</strong></td>
+      <td><strong>メール配信のパーソナライズ</strong></td>
       <td>
-        Adobeの機能を活用して、動的コンテンツを使用して E メール配信をパーソナライズ [!DNL Target].
+        を活用して、動的コンテンツでメール配信をパーソナライズします。
+        Adobe[!DNL Target] の機能。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>顧客の E メールにパーソナライズされたオファーを追加</li>
+          <li>パーソナライズされたオファーを顧客のメールに追加</li>
         </ul>
       </td>
       <td>
@@ -110,23 +115,27 @@ ht-degree: 1%
     </tr>
     <tr>
       <td rowspan="2">
-        <strong>パーソナライゼーションおよび広告プラットフォームのオーディエンスの拡張</strong>
+        <strong> パーソナライゼーションと広告プラットフォームのオーディエンスを拡張 </strong>
       </td>
       <td>
-        Audience Managerセグメントを使用して、Real-Time CDPでオーディエンスを作成し、パーソナライゼーションおよびリマーケティング戦術で使用します。
+        Audience Managerセグメントを使用した、Real-Time CDPでのオーディエンスの作成により、次のことを行えます
+        パーソナライゼーションおよびリマーケティング戦術での使用。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Web サイト、モバイルアプリ、またはサポートされる広告チャネルで、匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。
+            で匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行する
+            web サイト、モバイルアプリ、またはサポートされている広告チャネル上
           </li>
           <li>
-            既知のデバイスと行動の特性に基づいて、ランディングページと事前認証エクスペリエンスを最適化する
+            に基づいてランディングページと事前認証エクスペリエンスを最適化
+            既知のデバイスと行動特性
           </li>
           <li>
-            Audience Managerのサードパーティデータネットワークを活用して、ターゲティング用のオーディエンスをさらに絞り込み、拡張する
+            Audience Managerのサードパーティデータネットワークを活用して、さらに詳しく
+            ターゲティングのためのオーディエンスの調整と拡張
           </li>
-          <li>RTCDP にAudience Managerセグメントを共有する</li>
+          <li>RTCDP へのAudience Managerセグメントの共有</li>
         </ul>
       </td>
       <td>
@@ -134,23 +143,26 @@ ht-degree: 1%
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Managerとリアルタイムの顧客データ [!DNL Platform]</a
+          >Audience Managerおよび Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        用途 [!DNL Analytics] パーソナライゼーション戦術またはリマーケティング戦術で使用するオーディエンスを作成するためのデータ。
+        [!DNL Analytics] パーソナライゼーションで使用するオーディエンスを作成するために、または
+        リマーケティング戦術。
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            デバイスまたはサポートされる広告チャネルで、デジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。
+            デバイスでデジタルオーディエンスのターゲティングとパーソナライゼーションを実行または
+            サポートされる広告チャネル。
           </li>
           <li>
-            デバイスおよび行動属性に基づいて、既知の顧客ランディングページと匿名エクスペリエンスを最適化します。
+            既知の顧客ランディングページと匿名エクスペリエンスの最適化
+            デバイスと行動の属性に基づいています。
           </li>
-          <li>電子メールや SMS などの既知のチャネルに対してオーディエンスをアクティブ化する。</li>
+          <li>メールや SMS など、既知のチャネルに対してオーディエンスをアクティブ化します。</li>
         </ul>
       </td>
       <td>
@@ -158,19 +170,20 @@ ht-degree: 1%
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] およびリアルタイムの顧客データ [!DNL Platform]</a
+          >[!DNL Analytics] および Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Web エクスペリエンスのパーソナライズ</strong></td>
       <td>
-        AEMヘッドレスとAdobeを併用して効果的に利用することで、シングルページアプリケーション (SPA) エクスペリエンスをカスタマイズする [!DNL Target].
+        単一ページアプリケーション（SPA）エクスペリエンスの効果的なカスタマイズ
+        AEM ヘッドレスとAdobe [!DNL Target] の連携の活用
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>SPAとモバイルアプリのパーソナライズ機能</li>
-          <li>パーソナライズされた API 応答。</li>
+          <li>SPAとモバイルアプリのパーソナライゼーション</li>
+          <li>パーソナライズされた API の応答。</li>
           <li>[!DNL Target]ed コンテンツ配信。</li>
           <li>A/B テストのバリエーション。</li>
         </ul>
@@ -180,19 +193,20 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEMヘッドレスおよび [!DNL Target]</a
+          >AEM ヘッドレスと [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        AEM SitesとAdobeを有効に活用して、カスタマイズされた Web サイトエクスペリエンスを提供 [!DNL Target] パーソナライゼーション用。
+        AEM Sitesを有効活用してカスタマイズされた web サイトエクスペリエンスを提供
+        パーソナライゼーションのためのAdobe[!DNL Target]。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM Web サイトのパーソナライゼーション。</li>
-          <li>Web サイトのコンテンツをパーソナライズします。</li>
-          <li>ユーザーエクスペリエンスを最適化する。</li>
+          <li>AEM web サイトのパーソナライゼーション。</li>
+          <li>Web サイトのコンテンツをパーソナライズする。</li>
+          <li>ユーザーエクスペリエンスを最適化します。</li>
           <li>A/B テストのバリエーション。</li>
         </ul>
       </td>
@@ -208,14 +222,15 @@ ht-degree: 1%
     <tr>
       <td><strong>デジタルエクスペリエンスのパーソナライズ</strong></td>
       <td>
-        リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] Web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント
+        リアルタイム顧客プロファイルと一元的に管理される [!DNL Platform] セグメントの使用
+        web、モバイルおよびその他のデジタルチャネルをまたいでメッセージングをパーソナライズするには、次の手順を実行します
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>既知の訪問者に対するコンテンツのパーソナライゼーション</li>
-          <li>ロイヤリティのサインアップと参加を増やす</li>
-          <li>チャーンのリスクがある顧客を特定し、惹きつける</li>
-          <li>リアルタイムオファーパーソナライズ機能</li>
+          <li>ロイヤルティのサインアップと参加の増加</li>
+          <li>チャーンのリスクがある顧客の特定と関与</li>
+          <li>リアルタイムオファーのパーソナライゼーション</li>
         </ul>
       </td>
       <td>
@@ -223,14 +238,15 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>リードジェネレーションの強化</strong></td>
       <td>
-        リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] Web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント
+        リアルタイム顧客プロファイルと一元的に管理される [!DNL Platform] セグメントの使用
+        web、モバイルおよびその他のデジタルチャネルをまたいでメッセージングをパーソナライズするには、次の手順を実行します
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -242,7 +258,7 @@ ht-degree: 1%
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>

@@ -1,6 +1,6 @@
 ---
-title: AEMと Experience の統合 [!DNL Platform]
-description: Adobe Experience Manager (AEM) と Experience の統合 [!DNL Platform] データの価値を最大化する
+title: AEMとエクスペリエンスの統合  [!DNL Platform]
+description: Adobe Experience Manager（AEM）とエクスペリエ  [!DNL Platform]  スを統合して、データの価値を最大限に高めます。
 solution: Experience Manager, Experience Manager Sites, Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 ---
 
 
-# Experience Managerと Experience の統合 [!DNL Platform]
+# Experience Managerと Experience [!DNL Platform] の統合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-platform.md}}

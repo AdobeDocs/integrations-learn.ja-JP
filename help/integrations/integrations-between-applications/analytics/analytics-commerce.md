@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Analytics]  と  [!DNL Commerce] の統合'
-description: の統合方法を説明します。 [!DNL Analytics] Adobe [!DNL Commerce] .
+title: ' [!DNL Commerce] と  [!DNL Analytics]  統合'
+description: をAdobeと統合する方法  [!DNL Analytics]  説明します  [!DNL Commerce] 。
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
@@ -10,13 +10,13 @@ kt: null
 thumbnail: analytics-commerce.png
 badgeIntegration: label="統合" type="positive"
 last-substantial-update: 2023-05-23T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 4962e2be-469b-45aa-90a0-3c44a05f7af4
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '11'
-ht-degree: 45%
+ht-degree: 9%
 
 ---
-
 
 # [!DNL Analytics] と [!DNL Commerce] の統合
 

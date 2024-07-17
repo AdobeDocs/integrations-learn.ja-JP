@@ -1,6 +1,6 @@
 ---
 title: カスタマージャーニーのアプリケーション統合
-description: すべてのソースからデータを取り出して、パーソナライズされたクロスチャネルジャーニーを作成し、リアルタイムの顧客プロファイルを作成します。
+description: すべてのソースからデータを取り込み、パーソナライズされたクロスチャネルジャーニーを作成することで、リアルタイム顧客プロファイルを開発します。
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # カスタマージャーニー
 
-すべてのソースからデータを取り出して、パーソナライズされたクロスチャネルジャーニーを作成し、リアルタイムの顧客プロファイルを作成します。
+すべてのソースからデータを取り込み、パーソナライズされたクロスチャネルジャーニーを作成することで、リアルタイム顧客プロファイルを開発します。
 
 
 <table>
@@ -25,34 +25,34 @@ ht-degree: 2%
   </thead>
   <tbody>
 <tr>
-  <td><strong>ブランドアセットを使用したマーケティング販促物の作成</strong><br></td>
-  <td>AEMとAdobeを使用して、電子メールマーケティングのコンテンツとテンプレートを作成および監視します [!DNL Campaign].</td>
+  <td><strong>ブランドアセットを使用したマーケティング用販促物の作成</strong><br></td>
+  <td>AEMとAdobe[!DNL Campaign] を使用して、メールマーケティングコンテンツおよびテンプレートを作成し、監督します。</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>AEMで作成したマーケティングメールの送信</li>
+      <li>AEMで作成されたマーケティングメールの送信</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] およびAEM</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] とAEM</a></td>
 </tr>
 
 <tr>
   <td><strong>顧客データのキャプチャ</strong><br></td>
- <td>ネイティブを拡張 [!DNL Campaign] マーケティングキャンペーンのターゲティングとパーソナライゼーションをおこなうために顧客データをキャプチャする機能。</td>
+ <td>マーケティングキャンペーンのターゲティングとパーソナライゼーションのために、顧客データをキャプチャするネイティブ [!DNL Campaign] 機能を強化します。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>プロファイルを作成し、追加情報を収集します。 </li>
       <li>購読</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Formsと [!DNL Campaign] 標準</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Formsと [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
-  <td><strong>リードの生成</strong><br></td>
-  <td>フォーム送信からキャプチャしたデータを、リードジェネレーション、顧客セグメント化、パーソナライズされたマーケティングキャンペーンに使用します。</td>
+  <td><strong>リードを生成</strong><br></td>
+  <td>リードジェネレーション、顧客セグメント化、パーソナライズされたマーケティングキャンペーンのために、フォーム送信から取得したデータを使用します。</td>
     <td>
     <ul style="margin-top: 0;">
-      <li>リードジェネレーション用に、Web およびモバイルデバイス用の動的でインタラクティブなフォームをデザインして公開します。</li>
+      <li>リードジェネレーションを目的として、web およびモバイルデバイス用の動的でインタラクティブなフォームをデザインして公開します。</li>
     </ul>
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-marketo.md">Marketo EngageとForms</td>
@@ -60,33 +60,33 @@ ht-degree: 2%
 
 <tr>
   <td><strong>トランザクションメッセージの調整</strong><br></td>
-  <td>リアルタイムイベントデータを使用したトリガートランザクションメッセージ。</td>
+  <td>リアルタイムイベントデータを使用してトランザクションメッセージをトリガー化します。</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>登録や買い物かごのチェックアウト確認などの確認 E メール </li>
-      <li>買い物かごの放棄</li>
+      <li>確認メール（登録、買い物かごへのチェックアウト確認など） </li>
+      <li>買い物かご放棄</li>
     </ul>
   </td>
   <td><a href="../integrations-between-applications/campaign/campaign-analytics.md">[!DNL Campaign] and [!DNL Analytics]</a></td>
 </tr>
 
 <tr>
-  <td><strong>マーケティングキャンペーン用のオーディエンスの拡大</strong><br></td>
-  <td>オーディエンスとプロファイルデータでマーケティングキャンペーンを強化する。</td>
+  <td><strong>マーケティングキャンペーンのオーディエンスを拡張</strong><br></td>
+  <td>オーディエンスとプロファイルデータでマーケティングキャンペーンを強化します。</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>AEP データでマーケティングキャンペーンを強化して、オーディエンスのセグメント化を実現</li>
+      <li>AEP データを使用してマーケティングキャンペーンを強化し、オーディエンスをセグメント化します</li>
     </ul>
   </td>
- <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 およびリアルタイム顧客データ [!DNL Platform]</a></td>
+ <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 およびリアルタイムの顧客データ [!DNL Platform]</a></td>
 </tr>
 
 <tr>
-  <td><strong>E メール配信をパーソナライズ</strong><br></td>
-  <td>Adobeの機能を活用して、動的コンテンツを使用して E メール配信をパーソナライズ [!DNL Target].</td>
+  <td><strong>メール配信のパーソナライズ</strong><br></td>
+  <td>Adobe[!DNL Target] の機能を活用して、動的コンテンツを含んだメール配信をパーソナライズします。</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>顧客の E メールにパーソナライズされたオファーを追加</li>
+      <li>パーソナライズされたオファーを顧客のメールに追加</li>
     </ul>
   </td>
   <td><a href="../integrations-between-applications/campaign/campaign-target.md">[!DNL Campaign] and [!DNL Target]</a></td>
@@ -94,27 +94,27 @@ ht-degree: 2%
 
 <tr>
   <td><strong>デジタルエクスペリエンスのパーソナライズ</strong><br></td>
-  <td>リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント。</td>
+  <td>リアルタイム顧客プロファイルと一元管理された [!DNL Platform] セグメントを使用して、web、モバイル、その他のデジタルチャネルをまたいでメッセージングをパーソナライズします。</td>
   <td>
     <ul style="margin-top: 0;">
       <li>既知の訪問者に対するコンテンツのパーソナライゼーション</li>
-      <li>ロイヤリティのサインアップと参加を増やす</li>
-      <li>チャーンのリスクがある顧客を特定し、惹きつける</li>
-      <li>リアルタイムオファーパーソナライズ機能</li>
+      <li>ロイヤルティのサインアップと参加の増加</li>
+      <li>チャーンのリスクがある顧客の特定と関与</li>
+      <li>リアルタイムオファーのパーソナライゼーション</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time Customer Data [!DNL Platform] および [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>リードジェネレーションの強化</strong><br></td>
-  <td>リアルタイムの顧客プロファイルを使用し、一元的に管理 [!DNL Platform] Web、モバイル、その他のデジタルチャネルをまたいでメッセージをパーソナライズするセグメント</td>
+  <td>リアルタイム顧客プロファイルと一元管理された [!DNL Platform] セグメントを使用して、web、モバイル、その他のデジタルチャネルをまたいでメッセージングをパーソナライズします</td>
   <td>
     <ul style="margin-top: 0;">
       <li>既知の訪問者に対するコンテンツのパーソナライゼーション</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">リアルタイム顧客データ [!DNL Platform] および [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time Customer Data [!DNL Platform] および [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

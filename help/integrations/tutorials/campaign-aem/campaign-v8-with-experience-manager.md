@@ -1,6 +1,6 @@
 ---
-title: 統合 [!DNL Campaign] v8 とExperience Managerチュートリアル
-description: Adobeの接続方法 [!DNL Campaign] Adobe Experience Managerと連携して、e メール配信テンプレート、アセットおよびフォームをExperience Managerで管理
+title: v8 とExperience Manager [!DNL Campaign]  統合に関するチュートリアル
+description: AdobeとAdobe Experience Managerを連携  [!DNL Campaign]  て、Experience Managerでメール配信テンプレート、アセット、フォームを管理する方法を説明します。
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
@@ -20,28 +20,28 @@ ht-degree: 0%
 
 ---
 
-# 統合 [!DNL Campaign] v8 とExperience Managerチュートリアル
+# [!DNL Campaign] v8 とExperience Managerの統合に関するチュートリアル
 
-Adobeの接続方法 [!DNL Campaign] Adobe Experience Managerと連携して、e メール配信テンプレート、アセットおよびフォームをExperience Managerで管理
+Adobe[!DNL Campaign] をAdobe Experience Managerに接続して、Experience Managerでメール配信テンプレート、アセット、フォームを管理する方法を説明します。
 
 次のビデオでは、学習内容を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
-## 設定 [!DNL Campaign] (Experience Manager統合 )
+## Experience Manager統合用の [!DNL Campaign] の設定
 
-Experience Managerと [!DNL Campaign]探す重要な設定や避けるべき潜在的な「潜在的な問題」を含む。
+確認が必要な重要な設定や回避すべき潜在的な「落とし穴」など、Experience Managerと [!DNL Campaign] の統合を設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
-## に対するExperience Managerページの承認と公開 [!DNL Campaign]
+## [!DNL Campaign] へのExperience Managerページの承認と公開
 
-ニュースレターをExperience Managerで作成し、承認して公開する方法を説明します。 [!DNL Campaign].
+Experience Managerでニュースレターを作成し、承認して [!DNL Campaign] に公開する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
-## でのExperience ManagerE メール配信の同期と送信 [!DNL Campaign]
+## [!DNL Campaign] でのExperience Managerメール配信の同期と送信
 
-Experience Managerで作成したニュースレターをテストして送信する方法については、 [!DNL Campaign].
+Experience Manager（[!DNL Campaign]）で作成したニュースレターをテストして送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)

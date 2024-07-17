@@ -2,28 +2,28 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Adobeのリアルタイム顧客データ [!DNL Platform] およびAdobe [!DNL Target] 統合
+# Adobeの Real-time Customer Data [!DNL Platform] とAdobe[!DNL Target] の統合
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Real-Time CDPとの統合 [!DNL Target] を使用すると、既知の顧客データを使用してコンテンツをパーソナライズできます。 また、Real-Time CDPのデータガバナンスと同意機能により、既知の顧客データを責任を持って使用し、法律、契約、規制に関する制限に従い、顧客の好みに従うことができます。 Real-Time CDPと [!DNL Target] 次を含む：
+Real-Time CDPと [!DNL Target] の統合により、既知の顧客データを使用してコンテンツをパーソナライズできるようになります。 また、Real-Time CDPのデータガバナンス機能と同意機能により、既知の顧客データを責任を持って使用し、法的、契約上、規制上の制限を遵守し、お客様の好みを尊重することができます。 Real-Time CDPと [!DNL Target] の統合の主なメリットには、次のものがあります。
 
-+ **パーソナライズされたエクスペリエンスの提供** を Web サイトやモバイルアプリに追加します。
-+ **セグメントとプロファイル属性の共有** Adobe Real-Time CDPからAdobeへ [!DNL Target].
-+ **[!DNL Target]コンテンツ** をセグメントに追加し、属性値を表示します。
++ Web サイトおよびモバイルアプリで **パーソナライズされたエクスペリエンスを提供** します。
++ Adobe Real-Time CDPからAdobe[!DNL Target] ーザーへの **セグメントとプロファイル属性の共有**。
++ **[!DNL Target]content** セグメントに追加し、属性値を表示します。
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud</th>
-            <th>統合の条件</th>
+            <th>Experience Cloudアプリケーション</th>
+            <th>を使用した統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
@@ -31,10 +31,10 @@ Real-Time CDPとの統合 [!DNL Target] を使用すると、既知の顧客デ�
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDPと [!DNL Target]</a></td>
-        <td>Web SDK および [!DNL Target] 宛先</td>
+        <td>Web SDK と [!DNL Target] の宛先</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Real-Time CDPからへのデータの最速共有が必要な場合 [!DNL Target] を設定します。</li>
+                <li>Web サイトでReal-Time CDPから [!DNL Target] にデータを最速で共有する場合。</li>
             </ul>
         </td>
         <td>

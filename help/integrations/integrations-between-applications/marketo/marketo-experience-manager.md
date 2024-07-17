@@ -1,6 +1,6 @@
 ---
 title: Marketo EngageとAEMの統合
-description: Adobe Experience Manager Forms(AEM Forms) とMarketo Engageを統合し、効率的なリードジェネレーションを実現します。
+description: Adobe Experience Manager Forms（AEM Forms）とMarketo Engageを統合して、リードジェネレーションを合理化します。
 solution: Marketo Engage, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations

@@ -5,8 +5,8 @@ user-guide-description: 統合について学びます。
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 34%
+source-wordcount: '91'
+ht-degree: 19%
 
 ---
 
@@ -14,16 +14,16 @@ ht-degree: 34%
 # [!DNL Experience Cloud] 統合チュートリアル {#experience-cloud}
 
 + [[!DNL Experience Cloud] 統合](./overview.md)
-+ ソリューションカテゴリ{#solution-categories}
++ ソリューションカテゴリ {#solution-categories}
    + [概要](./solution-categories/overview.md)
    + [B2B マーケティング](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [コンテンツ管理](./solution-categories/content-management.md)
-   + [コンテンツサプライチェーン](./solution-categories/content-supply-chain.md)
+   + [コンテンツのサプライチェーン](./solution-categories/content-supply-chain.md)
    + [カスタマージャーニー](./solution-categories/customer-journeys.md)
-   + [データインサイトとアクティベーション](./solution-categories/data-insights.md)
-   + [規模に応じたパーソナライゼーション](./solution-categories/personalization.md)
-+ 製品の統合{#integrations-between-applications}
+   + [データインサイトとアクティブ化](./solution-categories/data-insights.md)
+   + [大規模なPersonalization](./solution-categories/personalization.md)
++ 製品の統合 {#integrations-between-applications}
    + [概要](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -60,7 +60,7 @@ ht-degree: 34%
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + エクスペリエンス [!DNL Platform]{#experience-platform}
+   + Experience [!DNL Platform]{#experience-platform}
       + [概要](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
@@ -80,24 +80,24 @@ ht-degree: 34%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ チュートリアル{#tutorials}
++ チュートリアル {#tutorials}
    + [!DNL Analytics] および [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] および [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
-   + [!DNL Analytics]と CJA の修正点{#analytics-cja}
-      + [[!DNL Analytics]と CJA の修正点](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics]と CJA の修正点](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + [[!DNL Analytics] と  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+   + [!DNL Analytics] と CJA{#analytics-cja}
+      + [[!DNL Analytics] と CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + [[!DNL Analytics] と CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics] とReal-Time CDP{#analytics-real-time-cdp}
       + [[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] および [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] および [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + [[!DNL Analytics] と  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] および [!DNL Analytics]{#campaign-analytics}
-      + [統合 [!DNL Campaign] 標準 [!DNL Analytics] 使用トリガーチュートリアル](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] およびExperience Manager {#campaign-experience-manager}
+      + [統合  [!DNL Campaign]  標準とトリガーの使用  [!DNL Analytics]  チュートリアル](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+   + [!DNL Campaign] とExperience Manager{#campaign-experience-manager}
       + [[!DNL Campaign] v8 とExperience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] とReal-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 とReal-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + Real-Team CDP{#rtcdp-target}
-      + [Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+   + Real-Team CDP {#rtcdp-target}
+      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)

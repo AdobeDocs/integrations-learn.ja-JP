@@ -1,6 +1,6 @@
 ---
-title: とのExperience Managerの統合 [!DNL Target]
-description: Adobe Experience Manager (AEM) との統合 [!DNL Target] パーソナライズされたエクスペリエンスを提供する
+title: Experience Managerと  [!DNL Target] の統合
+description: Adobe Experience Manager（AEM）とを統合して、エクスペリエンス  [!DNL Target]  パーソナライズします。
 solution: Experience Manager, Experience Manager Sites, [!DNL Target]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# とのExperience Managerの統合 [!DNL Target]
+# Experience Managerと [!DNL Target] の統合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-target.md}}

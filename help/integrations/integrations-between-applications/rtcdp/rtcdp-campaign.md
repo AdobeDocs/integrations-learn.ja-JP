@@ -1,6 +1,6 @@
 ---
-title: Real-time Customer Data Platformとの統合 [!DNL Campaign]
-description: Real-time Customer Data Platformとの統合方法を説明します [!DNL Campaign]
+title: Real-time Customer Data Platformと  [!DNL Campaign] の統合
+description: Real-time Customer Data Platformを  [!DNL Campaign] と統合する方法について説明します。
 solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# リアルタイム顧客データの統合 [!DNL Platform] 次を使用 [!DNL Campaign]
+# Real-Time Customer Data [!DNL Platform] と [!DNL Campaign] の統合
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

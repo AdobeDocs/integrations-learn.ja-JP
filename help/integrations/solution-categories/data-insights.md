@@ -1,6 +1,6 @@
 ---
-title: データインサイトおよびアクティベーション用のアプリケーション統合
-description: 組織全体のオンラインとオフラインのデータインサイトを使用して、あらゆるチャネルでリアルタイムのパーソナライゼーションを推進します。
+title: データインサイトとアクティベーションのアプリケーション統合
+description: 組織全体でオンラインおよびオフラインのデータインサイトを使用して、任意のチャネルでリアルタイムのパーソナライゼーションを推進します。
 exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # データインサイトとアクティベーション
 
-組織全体のオンラインとオフラインのデータインサイトを使用して、あらゆるチャネルでリアルタイムのパーソナライゼーションを推進します。
+組織全体でオンラインおよびオフラインのデータインサイトを使用して、任意のチャネルでリアルタイムのパーソナライゼーションを推進します。
 
 <table>
 
@@ -30,132 +30,132 @@ ht-degree: 1%
    <td rowspan="8"><b>データ分析とレポート</b></td>
 
 <!--  ROW 2a  -->
-<td>Adobeを使用して、A/B テストを含む最適化テストの結果を分析する [!DNL Target] Adobeを通じた包括的なレポートの生成 [!DNL Analytics].</td>
+<td>Adobe[!DNL Target] を使用し、Adobe[!DNL Analytics] を通じて包括的なレポートを生成することで、A/B テストを含む最適化テストの結果を分析します。</td>
    <td><ul style="margin-top: 0;">
-        <li>A/B テスト結果をリッチな分析レポートに表示します。</li>
+        <li>リッチ分析レポートで A/B テスト結果を表示します。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/target/target-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Target] and [!DNL Analytics]</a></td>
   </tr>
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Audience Managerセグメントデータの送信先 [!DNL Analytics] より深いオーディエンス分析、検出、最適化をおこなうため。</td>
+   <td>Audience Managerセグメントデータを [!DNL Analytics] に送信して、より深いオーディエンス分析、検出および最適化を行います。</td>
     <td><ul style="margin-top: 0;">
-        <li>サードパーティセグメントデータの送信先 [!DNL Analytics] を参照してください。</li>
-        <li>CRM データの送信先 [!DNL Analytics] ユーザー分析に含める場合。</li>
+        <li>ユーザーをより深く分析するために、サードパーティセグメントデータを [!DNL Analytics] に送信します。</li>
+        <li>CRM データを [!DNL Analytics] に送信して、ユーザー分析に含めます。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Managerと [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2c -->
 <tr>
-   <td>パーソナライゼーションおよび広告プラットフォームのオーディエンスを拡張します。</td>
+   <td>パーソナライゼーションと広告プラットフォームのオーディエンスを拡張します。</td>
     <td><ul style="margin-top: 0;">
-        <li>サーバー側転送を使用した送信 [!DNL Analytics] データをAudience Managerに送信し、セグメントを作成します。</li>
+        <li>サーバーサイド転送を使用して [!DNL Analytics] データをAudience Managerに送信し、セグメントを作成します。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Managerと [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2d  -->
 <tr>
-   <td>AEM Formsおよび [!DNL Analytics]. </td>
+   <td>AEM Formsと [!DNL Analytics] を使用して、デジタルフォームに対するユーザーエンゲージメントをトラッキング、分析およびレポートします。 </td>
    <td><ul style="margin-top: 0;">
-        <li>入力済みフォームフィールドやエラーが発生したフォームフィールドなど、フォーム送信ディメンションおよび指標に関するレポートを作成します。</li>
+        <li>入力済みのフォームフィールドやエラーが発生したフォームフィールドなど、フォーム送信のディメンションと指標に関するレポート。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM Formsと [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Adobeを使用して、AEM Sites Web サイトでのユーザーアクティビティの追跡、分析およびレポートを行います [!DNL Analytics] を参照してください。</td>
+   <td>包括的なレポートとインサイトを実現するAdobe[!DNL Analytics] を使用して、AEM Sites web サイト上でのユーザーアクティビティをトラッキング、分析およびレポートします。</td>
    <td><ul style="margin-top: 0;">
         <li>サイトページの主要指標を追跡、分析およびレポートします。</li>
-        <li>用途 [!DNL Analytics] レポートを使用して、ユーザーエクスペリエンスとコンテンツ戦略に関するデータ主導型の決定をおこないます。</li>
-        <li>上位および下位のコンバージョンパスを分析します。</li>
+        <li>[!DNL Analytics] レポートを使用して、ユーザーエクスペリエンスとコンテンツ戦略に関するデータ駆動型の決定を行います。</li>
+        <li>上位および下位の変換パスを分析します。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM Sitesと [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Adobeに関する包括的なインサイトの取得 [!DNL Campaign] クリック前の指標とコンバージョン率を使用した電子メールマーケティングキャンペーン</td>
+   <td>プレクリック指標 [!DNL Campaign] コンバージョン率を使用して、Adobeおよびメールマーケティングキャンペーンに関する包括的なインサイトを得ます。</td>
    <td><ul style="margin-top: 0;">
-        <li>電子メールキャンペーンのクリック後のコンバージョン指標を追跡、分析およびレポートします。</li>
-        <li>で収集した他のディメンションにキャンペーンをドリルダウンします。 [!DNL Analytics].</li>
-        <li>クリック前およびクリック後のキャンペーン指標を単一のレポートに表示できます。</li>
+        <li>メールキャンペーンのクリック後のコンバージョン指標を追跡、分析、レポートします。</li>
+        <li>キャンペーンを [!DNL Analytics] で収集された他のディメンションにドリルダウンします。</li>
+        <li>事前クリックおよび事後クリックのキャンペーン指標を 1 つのレポートに表示します。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Campaign] and [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Adobeに関する包括的なインサイトの取得 [!DNL Commerce] 選択した主要指標と主要ディメンションを使用してパフォーマンスを保存します。</td>
+   <td>選択した主要指標 [!DNL Commerce] ディメンションを使用して、Adobeとストアパフォーマンスに関する包括的なインサイトを得ます。</td>
    <td><ul style="margin-top: 0;">
-        <li>データインサイトと、コマースアクティビティのレポート。</li>
-        <li>Adobeに関する包括的なインサイトの取得 [!DNL Commerce] 選択した主要指標と主要ディメンションを使用してパフォーマンスを保存します。</li>
+        <li>コマースアクティビティに関するデータインサイトとレポート。</li>
+        <li>選択した主要指標 [!DNL Commerce] ディメンションを使用して、Adobeとストアパフォーマンスに関する包括的なインサイトを得ます。</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] and [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>使用Adobe [!DNL Analytics] 顧客ジャーニーのAnalysis Workspaceの行動データ [!DNL Analytics].</td>
+   <td>カスタマージャーニー[!DNL Analytics] ークフロー [!DNL Analytics]Analysis WorkspaceでAdobeと行動データを使用します。</td>
    <td><ul style="margin-top: 0;">
-        <li>チャネルのエンゲージメントとコンバージョンを分析します。</li>
-        <li>上位の製品カテゴリおよび製品を把握します。</li>
-        <li>ツール使用状況分析を実行して、セルフサービスエクスペリエンスを最適化します。</li>
+        <li>チャネルエンゲージメントとコンバージョンを分析します。</li>
+        <li>上位の製品カテゴリと製品について説明します。</li>
+        <li>ツールの使用状況の分析を実行して、セルフサービスエクスペリエンスを最適化します。</li>
        </ul></td>
-   <td><a href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Analytics] および顧客ジャーニー [!DNL Analytics]</a></td>
+   <td><a href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Analytics] およびカスタマージャーニー [!DNL Analytics]</a></td>
  </tr>
 
 
 <!--  Row 3  -->
 <tr>
-  <td rowspan="5"><b>パーソナライズとマーケティングのためのオーディエンスの拡大</b></td>
+  <td rowspan="5"><b>パーソナライゼーションとマーケティングのためのオーディエンスの拡張</b></td>
  </tr>
 
 <!--  ROW 3a  -->
 <tr>
-  <td>マルチチャネルのデータソースを使用して、パーソナライゼーションとリマーケティングの戦術に使用するオーディエンスを作成します。</td>
-  <td><ul style="margin-top: 0;"><li>宛先に配信するオーディエンスセグメントをReal-Time CDPに送信</li>
+  <td>マルチチャネルデータソースを使用して、パーソナライゼーションやリマーケティング戦術に使用するオーディエンスを作成します。</td>
+  <td><ul style="margin-top: 0;"><li>宛先に配信するためのReal-Time CDPへのオーディエンスセグメントの送信</li>
      </ul></td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">顧客ジャーニー [!DNL Analytics] およびリアルタイムの顧客データ [!DNL Platform]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">カスタマージャーニー[!DNL Analytics] とリアルタイムのカスタマーデータ [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3c  -->
 <tr>
-  <td>オーディエンスとプロファイルデータでマーケティングキャンペーンを強化する。</td>
+  <td>オーディエンスとプロファイルデータでマーケティングキャンペーンを強化します。</td>
   <td><ul style="margin-top: 0;">
-        <li>AEP データを使用してマーケティングキャンペーンを強化し、オーディエンスをセグメント化します。</li>
+        <li>オーディエンスのセグメント化に使用する AEP データでマーケティングキャンペーンを強化します。</li>
       </ul></td>
-   <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 およびリアルタイム顧客データ [!DNL Platform]</a></td>
+   <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 およびリアルタイムの顧客データ [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3d  -->
 <tr>
-  <td>Audience Managerセグメントを使用してReal-Time CDPでオーディエンスを作成し、パーソナライゼーションとリマーケティングで使用します。</td>
+  <td>パーソナライゼーションやリマーケティングに使用するオーディエンスをReal-Time CDPで作成するには、Audience Managerセグメントを使用します。</td>
   <td><ul style="margin-top: 0;">
-        <li>Web サイト、モバイルアプリ、またはサポートされる広告チャネルで、匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。</li>
-        <li>既知のデバイスや行動特性に基づいて、ランディングページと事前認証エクスペリエンスを最適化します。</li>
-        <li>Audience Managerのサードパーティデータネットワークを適用して、ターゲティング用のオーディエンスをさらに絞り込み、拡張します。</li>
+        <li>Web サイト、モバイルアプリ、またはサポートされている広告チャネルで、匿名のデジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。</li>
+        <li>既知のデバイスと行動特性に基づいて、ランディングページと事前認証エクスペリエンスを最適化します。</li>
+        <li>Audience Managerのサードパーティデータネットワークを活用して、ターゲティング用のオーディエンスをさらに絞り込み、拡張します。</li>
       </ul></td>
-  <td><a href="../integrations-between-applications/aam/aam-rtcdp.md" target="_blank" rel="noopener noreferrer">Audience Managerとリアルタイムの顧客データ [!DNL Platform]</a></td>
+  <td><a href="../integrations-between-applications/aam/aam-rtcdp.md" target="_blank" rel="noopener noreferrer">Audience Managerおよびリアルタイムの顧客データ [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3e  -->
-<td>用途 [!DNL Analytics] パーソナライゼーション戦術またはリマーケティング戦術で使用するオーディエンスを作成するためのデータ。</td>
-   <td><ul style="margin-top: 0;"><li>デバイスまたはサポートされる広告チャネルで、デジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。</li>
-           <li>デバイスおよび行動属性に基づいて、既知の顧客ランディングページと匿名エクスペリエンスを最適化します。</li>
-           <li>電子メールや SMS などの既知のチャネルに対してオーディエンスをアクティブ化する。</li>
+<td>パーソナライゼーションやリマーケティング戦術で使用するオーディエンスを作成するために、[!DNL Analytics] のデータを使用します。</td>
+   <td><ul style="margin-top: 0;"><li>デバイスまたはサポートされている広告チャネルで、デジタルオーディエンスのターゲティングとパーソナライゼーションを実行します。</li>
+           <li>デバイスと行動属性に基づいて、既知の顧客ランディングページと匿名エクスペリエンスを最適化します。</li>
+           <li>メールや SMS など、既知のチャネルに対してオーディエンスをアクティブ化します。</li>
         </ul></td>
    <td><a href="../integrations-between-applications/analytics/analytics-rtcdp.md" target="_blank" rel="noopener noreferrer">[!DNL Analytics] およびリアルタイムの顧客データ [!DNL Platform]</a></td>
 
 
 <!--  ROW 4  -->
 <tr>
-   <td><b>マーケティング画像の使用状況とパフォーマンスを測定</b></td>
-   <td>AEM AssetsとAdobeを統合して、マーケティング画像の効果を追跡および分析します [!DNL Analytics].</td>
-   <td><ul style="margin-top: 0;"><li>アセットのパフォーマンスを追跡および分析します。</li>
+   <td><b>マーケティング画像の使用状況とパフォーマンスの測定</b></td>
+   <td>AEM AssetsとAdobe [!DNL Analytics] を統合して、マーケティング画像の効果をトラッキングおよび分析します。</td>
+   <td><ul style="margin-top: 0;"><li>アセットのパフォーマンスの追跡と分析。</li>
            <li>ユーザーエンゲージメントを分析します。</li>
            <li>コンテンツ戦略を最適化します。</li>
         </ul></td>

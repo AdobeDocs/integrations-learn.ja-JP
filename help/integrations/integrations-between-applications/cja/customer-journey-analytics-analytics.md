@@ -1,6 +1,6 @@
 ---
-title: 統合顧客ジャーニー [!DNL Analytics] 次を使用 [!DNL Analytics]
-description: 顧客ジャーニーの統合方法 [!DNL Analytics] 次を使用 [!DNL Analytics].
+title: カスタマージャーニー [!DNL Analytics]  と  [!DNL Analytics] の統合
+description: 顧客ジャーニーを  [!DNL Analytics] と統合する方法  [!DNL Analytics]  説明します。
 solution: Customer Journey [!DNL Analytics], [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -10,14 +10,14 @@ kt: null
 thumbnail: analytics-customer-journey-analytics.png
 badgeIntegration: label="統合" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 3d0cc66b-d4b1-461f-aa97-313b3011ca02
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 6%
 
 ---
 
-
-# 統合顧客ジャーニー [!DNL Analytics] 次を使用 [!DNL Analytics]
+# カスタマージャーニー [!DNL Analytics] と [!DNL Analytics] の統合
 
 {{$include /help/_includes/integrations-between-applications/analytics-customer-journey-analytics.md}}

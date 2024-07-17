@@ -1,6 +1,6 @@
 ---
-title: AEM の Adobe との統合 [!DNL Commerce]
-description: Adobe Experience Manager (AEM) とAdobeの統合 [!DNL Commerce] 魅力的なショッピングエクスペリエンスを構築します。
+title: AEMとAdobeの統合  [!DNL Commerce]
+description: Adobe Experience Manager（AEM）とAdobeを統合して、魅力的  [!DNL Commerce]  ショッピングエクスペリエンスを構築します。
 solution: Experience Manager, Experience Manager Sites, [!DNL Commerce]
 feature: Integrations
 topic: Integrations
@@ -15,10 +15,10 @@ exl-id: 7c376a61-6324-40ca-bdeb-cb92f3ff1868
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '21'
-ht-degree: 23%
+ht-degree: 4%
 
 ---
 
-# とのExperience Managerの統合 [!DNL Commerce]
+# Experience Managerと [!DNL Commerce] の統合
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-commerce.md}}

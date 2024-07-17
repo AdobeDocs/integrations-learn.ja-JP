@@ -1,53 +1,53 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 1%
 
 ---
 
 
-# Experience Managerと [!DNL Target] 統合
+# Experience Managerと [!DNL Target] の統合
 
 {{experience-manager-description}}
 
 {{target-description}}
 
-一緒に使用する場合、Adobe Experience ManagerとAdobe [!DNL Target] 企業がコンテンツを管理し、パーソナライズされたエクスペリエンスを提供できる、強力なエンドツーエンドのソリューションを作成します。 この 2 つのプラットフォームを統合すると、Web、モバイル、E メールなど複数のチャネルにわたってパーソナライズされたエクスペリエンスをシームレスに配信でき、リアルタイムのデータと顧客インサイトに基づいてコンテンツとマーケティングキャンペーンを最適化できます。
+Adobe Experience ManagerとAdobeを一緒に使用すると、企業 [!DNL Target] コンテンツを管理し、パーソナライズされたエクスペリエンスを提供できる強力なエンドツーエンドソリューションを作成できます。 これらの 2 つのプラットフォームを統合すると、企業は web、モバイル、電子メールなど複数のチャネルにわたってパーソナライズされたエクスペリエンスをシームレスに提供し、リアルタイムデータと顧客インサイトに基づいてコンテンツとマーケティングキャンペーンを最適化できます。
 
-Adobe Experience ManagerとAdobeを使用するメリット [!DNL Target] 次のものが含まれます。
+Adobe Experience ManagerとAdobe[!DNL Target] を併用する利点には、次のようなものがあります。
 
-+ **エンゲージメントの強化**:AEMとAdobe [!DNL Target] お客様に合わせたエクスペリエンスを提供し、満足度とエンゲージメントを高めます。
-+ **プロセスの合理化**:AEMとAdobe [!DNL Target] 統合により、パーソナライゼーションの作成とテストが合理化され、効率が向上します。
-+ **動的最適化**：リアルタイムAEM-Adobe [!DNL Target] 統合により、顧客インサイトを使用したコンテンツとキャンペーンの最適化が可能になります。
-+ **詳細な分析**：組み合わせAEMとAdobe [!DNL Target] データは、有益な顧客インサイトを提供し、ターゲットを絞ったマーケティングキャンペーンを実現します。
++ **エンゲージメントの強化**:AEMとAdobe[!DNL Target] ブレンドしてカスタマイズされたエクスペリエンスを提供し、満足度とエンゲージメントを高めます。
++ **プロセスの合理化**:AEMとAdobe[!DNL Target] の統合により、パーソナライゼーションの作成とテストが合理化され、効率が向上します。
++ **動的な最適化**:AEMとAdobeのリアルタイムの [!DNL Target] 統合により、顧客インサイトを使用してコンテンツとキャンペーンを最適化できます。
++ **詳細な分析**:AEMとAdobeの [!DNL Target] データを組み合わせると、貴重な顧客インサイトが得られ、ターゲットを絞ったマーケティングキャンペーンが促進されます。
 
 ## 一般的な統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud</th>
-            <th>統合の条件</th>
+            <th>Experience Cloudアプリケーション</th>
+            <th>を使用した統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEMヘッドレスas a Cloud Serviceおよび [!DNL Target]</a></td>
-            <td>エクスペリエンス [!DNL Platform] Web SDK タグ拡張機能または alloy.js</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM ヘッドレスのas a Cloud Serviceと [!DNL Target]</a></td>
+            <td>Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
-                <li>AEMヘッドレスエクスペリエンスをパーソナライズする場合。</li>
-                <li>コンテンツ作成者がパーソナライズされたコンテンツを管理できるようにする場合。</li>
+                <li>AEM ヘッドレスエクスペリエンスをパーソナライズする場合。</li>
+                <li>コンテンツ作成者がパーソナライズされたコンテンツを管理する場合。</li>
               </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>ヘッドレスなAEMエクスペリエンス向けのパーソナライズされたコンテンツ配信。</li>
-                  <li>ヘッドレスなAEM主導のユーザーエクスペリエンスでの A/B テスト。</li>
-                  <li>ヘッドレスAEMコンテンツバリアントのリアルタイム最適化。</li>
+                  <li>ヘッドレス AEM エクスペリエンス向けにパーソナライズされたコンテンツ配信。</li>
+                  <li>ヘッドレス AEM駆動型のユーザーエクスペリエンスに対する A/B テスト。</li>
+                  <li>ヘッドレス AEM コンテンツのバリアントのリアルタイム最適化。</li>
                 </ul>
             </td>
         </tr>
@@ -56,15 +56,15 @@ Adobe Experience ManagerとAdobeを使用するメリット [!DNL Target] 次の
             <td>ネイティブコネクタ</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>AEM Web サイトのエクスペリエンスをパーソナライズする場合。</li>
+                    <li>AEM web サイトのエクスペリエンスをパーソナライズする場合。</li>
                     <li>コンテンツ作成者がパーソナライズされたコンテンツを管理する必要がある場合。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>AEM Sitesのコンテンツバリエーションの A/B テスト。</li>
-                <li>[!DNL Target]AEM Sitesエクスペリエンスの ed パーソナライゼーション。</li>
-                <li>Adobeからのリアルタイムデータを使用したAEM Sitesの最適化 [!DNL Target].</li>
+                <li>AEM Sites コンテンツのバリエーションの A/B テスト。</li>
+                <li>[!DNL Target]AEM Sites エクスペリエンスの ed パーソナライゼーション。</li>
+                <li>Adobe[!DNL Target] からのリアルタイムデータを使用したAEM Sitesの最適化。</li>
               </ul>
             </td>
         </tr>
