@@ -1,6 +1,6 @@
 ---
 title: アプリケーション統合設定 – ビジネスソリューション別
-description: ビジネスソリューション別に整理された、Experience Cloud アプリケーションの一般的な統合設定について学ぶ
+description: ビジネスソリューション別に整理された、Experience Cloud アプリケーションの一般的な統合設定について学ぶ。
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
