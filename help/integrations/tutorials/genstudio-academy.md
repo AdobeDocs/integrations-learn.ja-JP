@@ -3,9 +3,9 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: f63c9098d09776a8de8b9c374dab79c0eab0db4a
+source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
@@ -76,6 +76,15 @@ ht-degree: 1%
   <td> <strong style= "font-size: 2em"> 学んだことを実践に移す </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">移動する</span></a><td>
  </tr>
 </table>
+
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em"> フー・フー </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
+
+</tr>
+</table>
+
 
 >[!ENDSHADEBOX]
 
