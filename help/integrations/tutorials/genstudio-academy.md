@@ -3,7 +3,7 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: 3beec04de562b317561163d5570874593f7f1a7f
+source-git-commit: e9a35153024bdf107dcc3f189c3e6d39d43a5924
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <H3>ジェネレーティブ AI リーダーになる。</H3><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
+  <td> <strong> ジェネレーティブ AI リーダーになる </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <h3> マスター生成 AI。 ワークフローを変換する。</h3>
+    <strong>マスター生成 AI。 ワークフローの変換 </strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -37,7 +37,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <H3>いつでもジェネレーティブ AI スキル。</h3><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">今すぐ検索</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em"> いつでもジェネレーティブ AI スキル </strong><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">今すぐ検索</span></a></td>
  </tr>
 </table>
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <H3>プロンプトが簡単になりました。</h3><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。</td>
+  <td align="center"> <strong> プロンプトの表示が容易になりました。</strong><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -53,7 +53,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>マーケティング用の生成 AI の分類。</H3><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a><td>
+  <td> <strong> マーケティングのための生成 AI の分類 </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a><td>
  </tr>
 </table>
 
@@ -75,7 +75,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>学んだことを実践に移す</H3><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">移動する</span></a><td>
+  <td> <strong> 学んだことを実践に移す </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">移動する</span></a><td>
  </tr>
 </table>
 
