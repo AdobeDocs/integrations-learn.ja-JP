@@ -3,9 +3,9 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em"> ジェネレーティブ AI リーダーになる </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
+  <td> <strong style= "font-size: 2em"> ジェネレーティブ AI の知識を高めます。 </strong><p>クリエイティブおよびマーケティングワークフローを変革するジェネレーティブ AI スキルをマスターします。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em">マスター生成 AI。 ワークフローの変換 </strong><p>マーケティングワークフローでジェネレーティブ AI を使用するためのコアスキルについて説明します。 どこでも。 無料で。
+    <strong style= "font-size: 2em">GenStudio Academy のマスタージェネレーティブ AI。</strong><p>いつでも、どこでも、完全に無料で、ジェネレーティブ AI をクリエイティブおよびマーケティングワークフローに統合するための基本的なスキルを磨きます。
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em"> いつでもジェネレーティブ AI スキル </strong><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">今すぐ検索</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em"> マーケティング用ジェネレーティブ AI 簡略化。</strong><p> GenStudioアカデミーは、複雑なジェネレーティブ AI タスクを、ブランドガイドラインの変革などのわかりやすいコースに変換します。 ダウンロード可能なガイドやビデオを通じて、学習者は生成 AI を、1 つの概念を同時に習得することができます。<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">今すぐ検索</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> マーケティングのための生成 AI の分類 </strong><p> ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。</td>
+  <td align="center"> <strong style= "font-size: 2em"> 学習レベル。 無限の機会がロック解除されました。</strong><p>GenStudio Academy の習熟度レベルを使用すると、LLM について学んでいる、迅速な制作を習得している、または実際に AI ツールを見ているなど、ジェネレーティブ AI スキルを向上させるコンテンツを簡単に見つけることができます。 GenStudioアカデミーには、誰にでも役立つ機能があります。</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">Genstudio Academy に近日公開 </strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>GenStudio for Performance Marketingを最も効率的に使用するためのヒントとテクニックです。 </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>マーケティングでエキスパートレベルの AI スキルを活用するための高度なコース。 </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 1%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em"> 学んだことを実践に移す </strong><p> ジェネレーティブ AI リーダーになる。 ワークフローを変革し、業界をリードするための AI スキルをマスターに設定します。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">移動する</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em"> 学んだことを実践に移す </strong><p>GenStudio for Performance Marketingを探索するマーケティングチームが独自の広告やメールを作成し、効果的でパーソナライズされたマーケティングキャンペーンを推進できる、ジェネレーティブ AI ファーストのアプリケーションです。<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">移動する</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
