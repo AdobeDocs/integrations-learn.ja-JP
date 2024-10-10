@@ -3,9 +3,9 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
+source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -48,10 +48,10 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">Genstudio Academy に近日公開 </strong></td>
+  <td colspan="3"> <strong style= "font-size: 2em;"> 準備中 </strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
-   <td>
+   <td align="Left">
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong> ヒントとテクニック </strong>
@@ -60,7 +60,7 @@ ht-degree: 1%
       GenStudio for Performance Marketingを最も効率的に使用するためのヒントとテクニックです。
       </p>
    </td>
-   <td>
+   <td align="Right">
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong> エキスパートコース </strong>
