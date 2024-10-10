@@ -3,10 +3,10 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
+source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em"> ジェネレーティブ AI の知識を高めます。 </strong><p>クリエイティブおよびマーケティングワークフローを変革するジェネレーティブ AI スキルをマスターします。 <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> 登録 </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> ログイン </span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em"> 学習レベル。 無限の機会がロック解除されました。</strong><p>GenStudio Academy の習熟度レベルを使用すると、LLM について学んでいる、迅速な制作を習得している、または実際に AI ツールを見ているなど、ジェネレーティブ AI スキルを向上させるコンテンツを簡単に見つけることができます。 GenStudioアカデミーには、誰にでも役立つ機能があります。</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 
@@ -51,8 +51,26 @@ ht-degree: 1%
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>GenStudio for Performance Marketingを最も効率的に使用するためのヒントとテクニックです。 </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>マーケティングでエキスパートレベルの AI スキルを活用するための高度なコース。 </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong> ヒントとテクニック </strong>
+      </a>
+      </div>
+      <p>
+      GenStudio for Performance Marketingを最も効率的に使用するためのヒントとテクニックです。
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong> エキスパートコース </strong>
+      </a>
+      </div>
+      <p>
+      マーケティングでエキスパートレベルの AI スキルを活用するための高度なコース。
+      </p>
+   </td>
  </tr>
 </table>
 
