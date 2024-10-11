@@ -3,9 +3,9 @@ user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について学びます。
 mini-toc-levels: 1
-source-git-commit: 055180c634e028a208d1def883288441e76f87c3
+source-git-commit: bb2658916a519c651ebcd350dcc72e3a8593180f
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 19%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 19%
    + [カスタマージャーニー](./solution-categories/customer-journeys.md)
    + [データインサイトとアクティブ化](./solution-categories/data-insights.md)
    + [大規模なPersonalization](./solution-categories/personalization.md)
-   + [GenStudio学院](./tutorials/genstudio-academy.md)
 + 製品の統合 {#integrations-between-applications}
    + [概要](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
