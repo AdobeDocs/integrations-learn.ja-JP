@@ -3,9 +3,9 @@ title: GenStudio学院
 description: GenStudio アカデミーのランディング
 index: false
 hidefromtoc: true
-source-git-commit: 7a3346e4808f5e748f8272d537646370bf7b6fea
+source-git-commit: b8360aa54a2c925203b43bc9ac2b787ecb1519b4
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '207'
 ht-degree: 1%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 1%
       <strong> ソーシャル学習 </strong>
       </div>
       <p>
-      同業者の情報や知識から学ぶ
+      同僚から学んだり、組織全体で知識を簡単に共有したりできます。
       </p>
    </td>
    <td align="Center">
