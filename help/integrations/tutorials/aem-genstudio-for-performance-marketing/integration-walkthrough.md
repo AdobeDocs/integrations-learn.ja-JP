@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # 統合のチュートリアル
+
+[‹統合の概要に戻る](./overview.md)
 
 AEM Assetsのas a Cloud ServiceとGenStudio for Performance Marketingの統合の使用、AEM Assetsへのアセットのアップロード、AEM Assetsでのアセットの承認、GenStudio for Performance Marketingでの承認済みアセットの使用に関する基本について説明します。
 
