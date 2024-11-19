@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
+source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe GenStudioでの軽量なレビューと承認
 
-[統合の概要に戻る](./overview.md)
+[‹統合の概要に戻る](./overview.md)
 
 AEM Assetsas a Cloud Serviceでアセットをアップロード、レビュー、承認して、コンテンツワークフローを効率化する方法について説明します。 承認されると、これらのアセットはGenStudio for Performance Marketingにシームレスに統合され、キャンペーンでブランドが承認した資料に簡単にアクセスできるようになります。
 
