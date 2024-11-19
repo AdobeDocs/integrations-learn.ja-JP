@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -46,6 +46,11 @@ Adobe Experience Manager Formsは、Adobe Experience Managerのコンポーネ�
 ## Experience [!DNL Platform] の説明 {#experience-platform-description}
 
 Adobeエクスペリエンス [!DNL Platform] は、カスタマーエクスペリエンスを促進する完全なソリューションを構築し、管理するための、市場で最も強力で柔軟なオープンシステムです。 Experience [!DNL Platform] を使用すると、あらゆるシステムから顧客データおよびコンテンツを一元化および標準化して、データサイエンスと機械学習を適用し、パーソナライズされた豊富なエクスペリエンスのデザインおよび配信を大幅に強化できます。
+
+
+## GenStudio for Performance Marketing説明 {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketingは、ブランドが承認したアセットを統合することでコンテンツの作成と管理を合理化する強力なアプリケーションです。マーケターは、パーソナライズされた一貫性のあるコンテンツをすべてのチャネルにわたって大規模に配信でき、キャンペーンのパフォーマンスを向上させることができます。
 
 ## Journey Optimizer説明 {#journey-optimizer-description}
 

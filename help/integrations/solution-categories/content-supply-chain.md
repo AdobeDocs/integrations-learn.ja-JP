@@ -2,10 +2,10 @@
 title: コンテンツサプライチェーン向けアプリケーション統合
 description: コンテンツの計画、作成、パーソナライズおよび公開。
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
   </thead>
   <tbody>
 <tr>
-  <td><strong>ブランドアセットを使用したマーケティング用販促物の作成</strong><br/></td>
+  <td rowspan="2"><strong>ブランドアセットを使用したマーケティング用販促物の作成</strong><br/></td>
   <td>AEMとAdobe[!DNL Campaign] を使用して、メールマーケティングコンテンツおよびテンプレートを作成し、監督します。</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ ht-degree: 2%
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] とAEM</a></td>
+</tr>
+<tr>
+  <td>オンブランドのパーソナライズされたマーケティングエクスペリエンスを作成します。</td>
+  <td>
+    <ul>
+      <li>GenStudio for Performance Marketingで作成されたマーケティングメールをAEM Assetsのオンブランド画像と共に送信します。</li>
+      <li>AEM Assetsのオンブランド画像を使用して、GenStudio for Performance Marketingでオンブランドのメタ広告を作成します。</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance MarketingとAEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>アセット作成の管理</strong><br/></td>
