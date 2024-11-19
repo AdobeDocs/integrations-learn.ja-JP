@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について学びます。
 mini-toc-levels: 1
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 22%
+source-wordcount: '117'
+ht-degree: 19%
 
 ---
 
@@ -104,7 +104,12 @@ ht-degree: 22%
       + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance MarketingとExperience Manager{#genstudio-for-performance-marketing-experience-manager}
       + [概要](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
-      + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+      + [ 設定 ](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+HEAD: &lt;&lt;&lt;&lt;&lt;&lt;&lt;
+      + [ 統合の手順 ](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
+=======
       + [統合のウォークスルー](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
-      + [のユースケース#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [のユースケース#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+>>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
++ [ ユースケース #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
++ [ ユースケース #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+> 
