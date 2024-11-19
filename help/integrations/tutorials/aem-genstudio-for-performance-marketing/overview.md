@@ -11,10 +11,10 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: 0231dc5dcd7bc47efba05122fba2725ff5b500fb
+source-git-commit: 9624caa4307c31f94c5439b99ac48278dd9a67da
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 3%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
@@ -70,7 +70,7 @@ Adobe GenStudioとAEM Assetsのas a Cloud Serviceの力を活用して、パフ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walk-through" title="統合のチュートリアル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732043674830" alt="統合のチュートリアル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732043985386" alt="統合のチュートリアル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -101,7 +101,55 @@ Adobe GenStudioとAEM Assetsのas a Cloud Serviceの力を活用して、パフ�
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2
 
---
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Lightweight review and approval in Adobe GenStudio">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" title="Adobe GenStudioでの軽量なレビューと承認" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732043985703" alt="Adobe GenStudioでの軽量なレビューと承認"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudioでの軽量なレビューと承認">Adobe GenStudioにおける軽量なレビューと承認 </a>
+                    </p>
+                    <p class="is-size-6">AEM Assetsでアセットをアップロード、レビュー、承認して、GenStudio for Performance Marketingで使用できるようにするユースケースを説明します。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create variants with Adobe GenStudio">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" title="Adobe GenStudioを使用したバリアントの作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732043985624" alt="Adobe GenStudioを使用したバリアントの作成"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" target="_blank" rel="referrer" title="Adobe GenStudioを使用したバリアントの作成">Adobe GenStudioを使用したバリアントの作成 </a>
+                    </p>
+                    <p class="is-size-6">AEM AssetsとAdobe Expressを使用して、同じマーケティングエクスペリエンスを促進するために使用されるメールおよびメタ広告で使用するアセットバリエーションを作成するユースケースを説明します。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-
->
