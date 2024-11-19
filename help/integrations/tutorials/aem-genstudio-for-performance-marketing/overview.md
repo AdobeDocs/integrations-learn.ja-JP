@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -40,9 +40,7 @@ Adobe GenStudioとAEM Assetsのas a Cloud Serviceの力を活用して、パフ�
 
 -->
 
-
 ## ユースケース
-
 
 この統合によってワークフローがどのように強化されるかを示す、実用的なユースケースについて説明します。 アセット承認プロセスの簡略化からカスタマイズされたコンテンツバリアントの作成と利用まで、AEM Assetsのas a Cloud ServiceとGenStudio for Performance Marketingが連携して効率的で一貫性のあるパフォーマンスマーケティングキャンペーンを強化する方法を説明します。
 
