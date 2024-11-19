@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
+source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 設定
 
-[‹統合の概要に戻る](./overview.md)
+[統合の概要に戻る](./overview.md)
 
 AEM Assetsのas a Cloud ServiceとGenStudio for Performance Marketingを使用したAdobe GenStudioを開始するには、両方のアプリケーションを適切に設定する必要があります。 設定プロセスには、Adobe GenStudioをAEM AssetsおよびGenStudio for Performance Marketingと完全に統合するためにいくつかの手順を完了する必要があります。
 
