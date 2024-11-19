@@ -1,7 +1,7 @@
 ---
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 954b4bd9b36496d3a5992316a985bf88d129baf5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 2%
 
 ---
@@ -42,11 +42,7 @@ Adobe GenStudio for Performance MarketingとExperience Manager Assets Essentials
             <td>
                 <ul style="margin-top: 0;">
                     <li>ブランドアセットをアップロード、レビュー、承認します。</li>
-HEAD: &lt;&lt;&lt;&lt;&lt;&lt;&lt;
                     <li>マーケティングエクスペリエンスで使用するための、承認済みブランドアセットの画像バリアントを作成します。</li>
-=======
-                    <li>マーケティングエクスペリエンスで使用するための、承認済みブランドアセットの画像バリアントを作成します。</li>&lt;
-&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
