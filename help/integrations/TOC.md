@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について学びます。
 mini-toc-levels: 1
-source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
+source-git-commit: 6c6adc31c2c556373528841250c5c91ac42388a6
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 22%
+source-wordcount: '118'
+ht-degree: 21%
 
 ---
 
@@ -106,5 +106,5 @@ ht-degree: 22%
       + [概要](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [統合のチュートリアル](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + [のユースケース#1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [のユースケース#2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+      + [Adobe GenStudioでのレビューと承認](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Adobe GenStudioを使用したバリアントの作成](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
