@@ -12,7 +12,7 @@ duration: 416
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16484
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 49eeb3e1bfc5a22d8a8e57795f23539e131f98bc
+source-git-commit: 6b108fc5a24d8949417a2ef14fa0d5a376f0b1aa
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe GenStudioを使用したバリアントの作成
 
-[‹統合の概要に戻る](../../overview.md)
+[‹統合の概要に戻る](./overview.md)
 
 AEM Assetsのas a Cloud ServiceとAdobe ExpressがGenStudio for Performance Marketingと連携して、包括的なマーケティングキャンペーン用にカスタマイズされたアセットバリエーションを迅速に作成する方法を説明します。 メールプロモーションとメタ広告のビジュアルを簡単に生成および調整して、同じマーケティングエクスペリエンスに対して様々なオーディエンスをターゲティングしながら、一貫性を確保します。
 
