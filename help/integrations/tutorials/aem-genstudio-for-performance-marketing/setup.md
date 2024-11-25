@@ -11,17 +11,20 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Asset とGenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# 設定
+# AEM Asset とGenStudio for Performance Marketingの設定
 
-[‹統合の概要に戻る](./overview.md)
+[‹ AEM Asset とGenStudio for Performance Marketingの概要に戻る](./overview.md)
 
 AEM Assetsのas a Cloud ServiceとGenStudio for Performance Marketingを使用したAdobe GenStudioを開始するには、両方のアプリケーションを適切に設定する必要があります。 設定プロセスには、Adobe GenStudioをAEM AssetsおよびGenStudio for Performance Marketingと完全に統合するためにいくつかの手順を完了する必要があります。
 
@@ -101,7 +104,7 @@ AEM Assetsのas a Cloud ServiceとGenStudio for Performance Marketingを使用�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="GenStudio for Performance Marketingの設定">GenStudio for Performance Marketingのセットアップ </a>
                     </p>
-                    <p class="is-size-6">GenStudio for Performance Marketingの使用を開始して、ブランドに合わせた新しいマーケティングコンテンツを生成する方法を説明します。</p>
+                    <p class="is-size-6">パフォーマンスマーケティング用の GenStudio の使用を開始して、ブランドに合わせた新しいマーケティングコンテンツを生成する方法について説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
