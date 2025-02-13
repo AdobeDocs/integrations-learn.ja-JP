@@ -1,6 +1,6 @@
 ---
-title: GenStudio for Performance MarketingとAEM Assetsを使用したAdobe GenStudioの設定
-description: AEM AssetsとGenStudio for Performance Marketingの統合を設定する方法について説明します。
+title: GenStudio for Performance MarketingとAEM Assetsのセットアップ
+description: Adobe GenStudioをGenStudio for Performance MarketingとAEM Assetsで設定して、コンテンツ作成を効率化し、ブランドの一貫性を確保します。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,18 +14,18 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
 
 # GenStudio for Performance MarketingとAEM Assetsのセットアップ
 
-[‹ AEM Asset とGenStudio for Performance Marketingの概要に戻る](./overview.md)
+[‹ AEM AssetsとGenStudio for Performance Marketingの概要に戻る](./overview.md)
 
-AEM Assetsas a Cloud ServiceとGenStudio for Performance MarketingのAdobe GenStudioを使い始めるには、必要な製品がプロビジョニング、有効化、設定されていることを確認します。 特に、次の場所にアクセスする必要があります。
+Adobe GenStudioをAEM Assets as a Cloud ServiceおよびGenStudio for Performance Marketingで使用するには、必要な製品がプロビジョニング、有効化、設定されていることを確認します。 特に、次の場所にアクセスする必要があります。
 
 * AEM Assetsas a Cloud Service
 * AEM AssetsContent Hub
@@ -35,7 +35,7 @@ AEM Assetsas a Cloud ServiceとGenStudio for Performance MarketingのAdobe GenSt
 
 ## 設定ガイド
 
-これらのAdobe製品の設定や有効化が完了していない場合は、以下のガイドを参照して詳細な設定手順を確認してください。
+これらのAdobe製品がまだ設定されておらず、有効になっていない場合、設定手順の詳細については次のガイドを参照してください。
 
 <!-- CARDS 
 
@@ -65,7 +65,7 @@ AEM Assetsas a Cloud ServiceとGenStudio for Performance MarketingのAdobe GenSt
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assetsの設定">AEM Assetsのセットアップ </a>
                     </p>
-                    <p class="is-size-6">商品に関する知識を高めることを目的として、厳選された一連のビデオプレイリストで、Assets ビューでAEM Assetsのas a Cloud Serviceを操作する方法を説明します。</p>
+                    <p class="is-size-6">商品に関する知識を高めることを目的として、厳選されたビデオプレイリストを使用して、Assets ビューでAEM Assets as a Cloud Serviceを操作する方法を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
