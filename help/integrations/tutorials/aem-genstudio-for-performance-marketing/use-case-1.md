@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudioでの軽量なレビューと承認
-description: AEM Assetsでアセットをアップロード、レビュー、承認して、GenStudio for Performance Marketingで使用できるようにするユースケースを説明します。
+description: AEM Assetsでアセットをアップロード、レビュー、承認して、GenStudio for Performance Marketingで使用できるようにする方法を調べます。
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,17 +15,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset とGenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: d3f671ffc39355a5e227bfdf94fdb3a24032f53e
+source-git-commit: 8eac109594317e1a8689480ccf7ba0aeaa824308
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudioでの軽量なレビューと承認
 
-[‹ AEM Asset とGenStudio for Performance Marketingの概要に戻る](./overview.md)
+[‹ AEM AssetsとGenStudio for Performance Marketingの概要に戻る](./overview.md)
 
-AEM Assetsas a Cloud Serviceでアセットをアップロード、レビュー、承認して、コンテンツワークフローを効率化する方法について説明します。 承認されると、これらのアセットはGenStudio for Performance Marketingにシームレスに統合され、キャンペーンでブランドが承認した資料に簡単にアクセスできるようになります。
+AEM Assets as a Cloud Serviceでアセットをアップロード、レビュー、承認して、コンテンツワークフローを効率化する方法について説明します。 承認されると、これらのアセットはGenStudio for Performance Marketingにシームレスに統合され、キャンペーンでブランドが承認した資料に簡単にアクセスできるようになります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
