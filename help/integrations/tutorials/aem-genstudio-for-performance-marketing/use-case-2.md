@@ -1,7 +1,6 @@
 ---
-title: Adobe GenStudioを使用したバリアントの作成
-description: AEM AssetsとAdobe Expressを使用して、同じマーケティングエクスペリエンスを促進するために使用されるメールおよびメタ広告で使用するアセットバリエーションを作成するユースケースを説明します。
-solution: Experience Manager, GenStudio for Performance Marketing
+title: Adobe GenStudioでのバリアントの作成
+description: AEM AssetsとAdobe Expressを使用して、メールおよびメタ広告用のアセットバリエーションを作成し、統一されたマーケティングエクスペリエンスを確保する方法を説明します。
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
@@ -15,17 +14,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset とGenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 2bbf8feb6eb83c7bd3f8d36ca821713e86dd8b4f
+source-git-commit: 998a43ccd2b3d8a15f4c065e9e0f153edd81b7a6
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudioを使用したバリアントの作成
+# Adobe GenStudioでのバリアントの作成
 
-[‹ AEM Asset とGenStudio for Performance Marketingの概要に戻る](./overview.md)
+[‹ AEM AssetsとGenStudio for Performance Marketingの概要に戻る](./overview.md)
 
-AEM Assetsのas a Cloud ServiceとAdobe ExpressがGenStudio for Performance Marketingと連携して、包括的なマーケティングキャンペーン用にカスタマイズされたアセットバリエーションを迅速に作成する方法を説明します。 メールプロモーションとメタ広告のビジュアルを簡単に生成および調整して、同じマーケティングエクスペリエンスに対して様々なオーディエンスをターゲティングしながら、一貫性を確保します。
+AEM Assets as a Cloud ServiceとAdobe ExpressがGenStudio for Performance Marketingと連携して、包括的なマーケティングキャンペーン用にカスタマイズされたアセットバリエーションを迅速に作成する方法を説明します。 メールプロモーションとメタ広告のビジュアルを簡単に生成および調整して、同じマーケティングエクスペリエンスに対して様々なオーディエンスをターゲティングしながら、一貫性を確保します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
