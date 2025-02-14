@@ -12,12 +12,12 @@ duration: 133
 last-substantial-update: 2024-11-21T00:00:00Z
 jira: KT-16480
 index: true
-hidefromtoc: true
+hidefromtoc: false
 badgeIntegration: label="AEM Asset とGenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
+source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -48,18 +48,18 @@ AEM AssetsとGenStudio for Performance Marketingの基本的な知識を持つ�
     {cta=Learn}
     {image=https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
-    {title=Get started with the integration}
+    {title=Get started with GenStudio for Performance Marketing and AEM Assets}
     {cta=Learn}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up GenStudio and Performance Marketing and AEM Assets">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up GenStudio for Performance Marketing and AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="GenStudioとパフォーマンスマーケティングおよびAEM Assetsの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="GenStudioとパフォーマンスマーケティングおよびAEM Assetsの設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" title="GenStudio for Performance MarketingとAEM Assetsのセットアップ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=400&format=webply&optimize=medium" alt="GenStudio for Performance MarketingとAEM Assetsのセットアップ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,9 +67,9 @@ AEM AssetsとGenStudio for Performance Marketingの基本的な知識を持つ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="GenStudioとパフォーマンスマーケティングおよびAEM Assetsの設定">GenStudioとパフォーマンスマーケティングおよびAEM Assetsのセットアップ </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" title="GenStudio for Performance MarketingとAEM Assetsのセットアップ">GenStudio for Performance MarketingとAEM Assetsのセットアップ </a>
                     </p>
-                    <p class="is-size-6">AEM AssetsとGenStudio for Performance Marketingの統合を設定する方法について説明します。</p>
+                    <p class="is-size-6">Adobe GenStudioをGenStudio for Performance MarketingとAEM Assetsで設定して、コンテンツ作成を効率化し、ブランドの一貫性を確保します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -77,12 +77,12 @@ AEM AssetsとGenStudio for Performance Marketingの基本的な知識を持つ�
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started with the integration">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started with GenStudio for Performance Marketing and AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="統合の基本を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1733416518352" alt="統合の基本を学ぶ"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,9 +90,9 @@ AEM AssetsとGenStudio for Performance Marketingの基本的な知識を持つ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="統合の基本を学ぶ"> 統合の概要 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" title="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ">GenStudio for Performance MarketingとAEM Assetsの概要 </a>
                     </p>
-                    <p class="is-size-6">AEM AssetsとGenStudio for Performance Marketingの統合の使用、AEM Assetsへのアセットのアップロード、AEM Assetsでのアセットの承認、GenStudio for Performance Marketingでの承認済みアセットの使用に関する基本について説明します。</p>
+                    <p class="is-size-6">AEMでのアセットのアップロードと承認から、GenStudio for Performance Marketingでのアセットの使用に至るまで、AEM AssetsとGenStudio for Performance Marketingの使用方法を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -120,7 +120,7 @@ AEM AssetsとGenStudio for Performance Marketingの基礎知識を持つユー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudioでの軽量なレビューと承認" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Adobe GenStudioでの軽量なレビューと承認"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Adobe GenStudioでの軽量なレビューと承認"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +143,7 @@ AEM AssetsとGenStudio for Performance Marketingの基礎知識を持つユー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Adobe GenStudioでのバリアントの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1733416518722" alt="Adobe GenStudioでのバリアントの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Adobe GenStudioでのバリアントの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
