@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud Serviceでアセットをアップロード、レビュー、承認して、コンテンツワークフローを効率化する方法について説明します。 承認されると、これらのアセットはGenStudio for Performance Marketingにシームレスに統合され、キャンペーンでブランドが承認した資料に簡単にアクセスできるようになります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439289/?learn=on&enablevpops&captions=jpn)

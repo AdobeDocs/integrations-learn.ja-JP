@@ -32,22 +32,22 @@ Experience [!DNL Platform] Data Collection をAdobeし、必要なプロパテ�
 >
 > Launch は、Adobe Experience [!DNL Platform] のタグ機能になりました。 **Adobeの Experience [!DNL Platform] Data Collections** にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454017?quality=12&learn=on&captions=jpn)
 
 ## Experience Cloud でのトリガーの作成
 
 Experience Cloud でトリガーを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446139?quality=12&learn=on&captions=jpn)
 
 ## [!DNL Campaign] Standard でのトリガーの作成
 
 [!DNL Campaign] Standard でトリガーイベントを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446410?quality=12&learn=on&captions=jpn)
 
 ## リアルタイムイベントデータを使用したトランザクションメッセージの設定
 
 トリガーから得られるリアルタイムイベントデータを使用してトランザクションメッセージを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450203?quality=12&learn=on&captions=jpn)

@@ -48,7 +48,7 @@ ht-degree: 1%
 * A4T の仕組み
 * A4T を使用するための前提条件は何ですか？
 
->[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421727/?quality=12&learn=on&captions=jpn)
 
 
 ## よくあるユースケース
@@ -59,13 +59,13 @@ ht-degree: 1%
 
 この [!DNL Analytics] for [!DNL Target] （A4T）パネルを使用すると、Analysis Workspaceでリフトと信頼度を使用して、アクティビティ [!DNL Target] エクスペリエンスのAdobeを分析できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326710/?quality=12&learn=on&captions=jpn)
 
 ### A4T パネルを使用した自動 [!DNL Target] 動アクティビティの分析
 
 このビデオでは、[!DNL Analytics] for [!DNL Target] パネルを使用して自動 [!DNL Target] テストの結果を視覚化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412970/?quality=12&learn=on&captions=jpn)
 
 また、「自動配分」と「自動ターゲット」アクティビティに関する A4T レポートをAnalysis Workspaceで設定する方法の詳細を示す、2 つのステップバイステップのチュートリアルもあります。
 

@@ -26,22 +26,22 @@ Adobe[!DNL Campaign] をAdobe Experience Managerに接続して、Experience Man
 
 次のビデオでは、学習内容を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344275?quality=12&learn=on&captions=jpn)
 
 ## Experience Manager統合用の [!DNL Campaign] の設定
 
 確認が必要な重要な設定や回避すべき潜在的な「落とし穴」など、Experience Managerと [!DNL Campaign] の統合を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445897?quality=12&learn=on&captions=jpn)
 
 ## [!DNL Campaign] へのExperience Managerページの承認と公開
 
 Experience Managerでニュースレターを作成し、承認して [!DNL Campaign] に公開する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447572?quality=12&learn=on&captions=jpn)
 
 ## [!DNL Campaign] でのExperience Managerメール配信の同期と送信
 
 Experience Manager（[!DNL Campaign]）で作成したニュースレターをテストして送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444749?quality=12&learn=on&captions=jpn)

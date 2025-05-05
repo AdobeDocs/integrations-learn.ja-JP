@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud ServiceとGenStudio for Performance Marketingの統合の使用、AEM Assetsへのアセットのアップロード、AEM Assetsでのアセットの承認、GenStudio for Performance Marketingでの承認済みアセットの使用に関する基本について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439278/?learn=on&enablevpops&captions=jpn)
