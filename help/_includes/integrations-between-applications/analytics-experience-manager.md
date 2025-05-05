@@ -35,7 +35,7 @@ Adobe [!DNL Analytics] とAdobe Experience Managerの統合には、次のよう
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] （AEM Sitesを使用）</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=ja" target="_blank" rel="noreferrer">Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Adobe [!DNL Analytics] でAEM web 分析データについてレポートする場合は、将来、他のExperience Cloudアプリケーションと統合する立場をとってください。</li>

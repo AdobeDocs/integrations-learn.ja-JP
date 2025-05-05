@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->これらのビデオでは、[!DNL Target] at.js および appMeasurement.js の実装と検証 [!DNL Analytics] ついて説明します。 両方のツールで必要なライブラリバージョンについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) を参照してください。
+>これらのビデオでは、[!DNL Target] at.js および appMeasurement.js の実装と検証 [!DNL Analytics] ついて説明します。 両方のツールで必要なライブラリバージョンについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ja) を参照してください。
 
 ### A4T の設定（[!DNL Target] の場合は [!DNL Analytics]）
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 自動配分アクティビティは、複数のエクスペリエンスの中から勝者を特定し、より多くのトラフィックをその勝者に自動的に再配分します。その間もテストによる学習は続けられます。 自動配分のための [!DNL Analytics] for [!DNL Target] （A4T）統合により、レポートデータをAdobe[!DNL Analytics] で確認できるほか、[!DNL Analytics] で定義されたカスタムイベントや指標を最適化することもできます。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=ja" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 自動配分アクティビティ用の A4T レポートの設定 </span>
 </a>
 
@@ -83,6 +83,6 @@ ht-degree: 1%
 
 Adobe[!DNL Analytics]Analysis Workspaceには豊富な分析機能が備わっていますが、実験アクティビティ（手動 A/B テストと自動配分）とパーソナライゼーションアクティビティ（自動 [!DNL Target]）の違いにより、自動 [!DNL Target] 分アクティビティを正しく解釈するには、[!DNL Target] のパネルのデフォルト [!DNL Analytics] ードにいくつかの変更を加える必要があります。
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ja" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 自動 [!DNL Target] 動アクティビティ用の A4T レポートの設定 </span>
 </a>

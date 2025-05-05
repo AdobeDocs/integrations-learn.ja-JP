@@ -34,7 +34,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td rowspan="3">Cloud ServiceとしてのAEM Sitesと [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">[!DNL Commerce] Integration Framework （CIF）を使用して 1 つのストアフロントを作成する</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Commerce] Integration Framework （CIF）を使用して 1 つのストアフロントを作成する</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEMで 1 つのストアフロントが必要な場合。</li>
@@ -50,7 +50,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">[!DNL Commerce] Integration Framework （CIF）を使用した複数ストアフロントの作成</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Commerce] Integration Framework （CIF）を使用した複数ストアフロントの作成</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEMで複数のストアフロントが必要な場合。</li>

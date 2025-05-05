@@ -47,7 +47,7 @@ Adobe [!DNL Campaign] とAEMExperience Managerを統合する主なメリット�
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Formsを使用した標準</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Formsを使用した標準</a></td>
             <td>Adobe IMSアクセストークン</td>
             <td>
                 <ul style="margin-top: 0;">

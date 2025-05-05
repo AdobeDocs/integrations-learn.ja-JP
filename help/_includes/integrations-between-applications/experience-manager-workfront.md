@@ -34,7 +34,7 @@ AEMとWorkfrontにより、コンテンツ制作が合理化され、管理さ�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">WorkfrontとAEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja" target="_blank" rel="noreferrer">WorkfrontとAEM Assets Essentials</a></td>
             <td>ネイティブコネクタ</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEMとWorkfrontにより、コンテンツ制作が合理化され、管理さ�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">WorkfrontとAEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=ja" target="_blank" rel="noreferrer">WorkfrontとAEM Assets</a></td>
             <td>拡張コネクタ</td>
             <td>
                 <ul style="margin-top: 0;">

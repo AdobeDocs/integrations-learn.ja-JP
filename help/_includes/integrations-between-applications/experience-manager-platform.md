@@ -32,7 +32,7 @@ AEMと Experience [!DNL Platform] の統合には、次のようないくつか�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Managerと経験 [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=ja" target="_blank" rel="noreferrer">Experience Managerと経験 [!DNL Platform]</a></td>
             <td>Experience [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">

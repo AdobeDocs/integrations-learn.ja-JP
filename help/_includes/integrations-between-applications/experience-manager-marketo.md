@@ -31,7 +31,7 @@ Experience ManagerとMarketo Engageの統合には、次のようないくつか
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager FormsとMarketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=ja" target="_blank" rel="noreferrer">Experience Manager FormsとMarketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>ユーザーのデジタルフォーム送信に基づいてリードを生成する場合。</li>

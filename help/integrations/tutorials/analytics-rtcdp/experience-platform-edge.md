@@ -23,29 +23,29 @@ ht-degree: 3%
 # Experience [!DNL Platform] Edge チュートリアルを使用した、Adobe[!DNL Analytics] ータと Real-time Customer Data [!DNL Platform] の統合
 
 <ol>
-    <li>取り込むデータの <a href="https://experienceleague.adobe.com/?lang=ja#dashboard/learning" _target="_blank" rel="noopener noreferrer"> スキーマを作成 </a> します。</li>
-    <li>取り込むデータの <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer"> データセットを作成 </a> します。</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer"> スキーマ上で正しい ID と ID 名前空間を設定して </a> 取り込まれたデータが統合プロファイルにステッチできることを確認します。</li>
+    <li>取り込むデータの <a href="https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning" _target="_blank" rel="noopener noreferrer"> スキーマを作成 </a> します。</li>
+    <li>取り込むデータの <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=ja" _target="_blank" rel="noopener noreferrer"> データセットを作成 </a> します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=ja" _target="_blank" rel="noopener noreferrer"> スキーマ上で正しい ID と ID 名前空間を設定して </a> 取り込まれたデータが統合プロファイルにステッチできることを確認します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=ja" _target="_blank" rel="noopener noreferrer"> プロファイルのスキーマとデータセットを有効にします </a>。</li>
     <li>次のいずれかの方法を使用して、Experience [!DNL Platform] にデータを取り込みます。</li>
         <ul>
            <li>Experience [!DNL Platform] Web SDK:</li>
                 <ul>
                     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html" _target="_blank" rel="noopener noreferrer">Checklist</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html?lang=ja" _target="_blank" rel="noopener noreferrer">Checklist</a></li>
                 </ul>
             <li>Experience [!DNL Platform] Mobile SDK:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html" _target="_blank" rel="noopener noreferrer">Checklist</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html?lang=ja" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html?lang=ja" _target="_blank" rel="noopener noreferrer">Checklist</a></li>
                 </ul></li>
             <li>Edge Networkサーバー API:</li>
                 <ul>
                     <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
                 </ul>
        </ul>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html" _target="_blank" rel="noopener noreferrer">Experience [!DNL Platform] でセグメントを作成します。</a> セグメントをバッチ（データコネクタ）とストリーミング（Edge Network）のどちらで評価するかを自動で判断します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html" _target="_blank" rel="noopener noreferrer">目的の宛先にプロファイル属性とオーディエンスメンバーシップを共有するための宛先を設定します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja" _target="_blank" rel="noopener noreferrer">Experience [!DNL Platform] でセグメントを作成します。</a> セグメントをバッチ（データコネクタ）とストリーミング（Edge Network）のどちらで評価するかを自動で判断します。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html?lang=ja" _target="_blank" rel="noopener noreferrer">目的の宛先にプロファイル属性とオーディエンスメンバーシップを共有するための宛先を設定します。</a></li>
 </ol>
 
 >[!NOTE]

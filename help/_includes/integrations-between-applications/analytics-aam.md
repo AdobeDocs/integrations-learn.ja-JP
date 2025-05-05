@@ -57,7 +57,7 @@ Adobe[!DNL Analytics] とAudience Managerを統合する主なメリットは次
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">[!DNL Analytics]</a> へのデータの返送Audience Manager
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Analytics]</a> へのデータの返送Audience Manager
             </td>
             <td>サーバーサイド転送 [!DNL Analytics] 有効なタグ拡張機能またはAppMeasurement.js のAdobe</td>
             <td>

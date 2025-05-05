@@ -35,7 +35,7 @@ Adobe Experience ManagerとAdobe[!DNL Target] を併用する利点には、次�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM ヘッドレスのas a Cloud Serviceと [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=ja" target="_blank" rel="noreferrer">AEM ヘッドレスのas a Cloud Serviceと [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

@@ -18,21 +18,21 @@ Adobeアプリケーションの設定には、環境に応じて様々な方法
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="B2b マーケティング" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="B2b マーケティング" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=ja"/></a>
       <div><strong><a href="./b2b.md">B2B マーケティング </a></strong></div>
       <p>
         マーケティングの自動化とセールス・パートナーシップ
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="コマース" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="コマース" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=ja"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B および B2C デジタルコマース
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="コンテンツ管理" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="コンテンツ管理" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=ja"/></a>
       <div><strong><a href="./content-management.md">コンテンツ管理</a></strong></div>
       <p>
         コンテンツとアセットの管理
@@ -41,21 +41,21 @@ Adobeアプリケーションの設定には、環境に応じて様々な方法
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="コンテンツのサプライチェーン" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="コンテンツのサプライチェーン" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=ja"/></a>
       <div><strong><a href="./content-supply-chain.md"> コンテンツのサプライチェーン </a></strong></div>
       <p>
         コンテンツの作成と配信の高速化
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="カスタマージャーニー" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="カスタマージャーニー" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=ja"/></a>
       <div><strong><a href="./customer-journeys.md"> カスタマージャーニー </a></strong></div>
       <p>
         オムニチャネルオーケストレーションと配信
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="データインサイトとアクティブ化" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="データインサイトとアクティブ化" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=ja"/></a>
       <div><strong><a href="./data-insights.md"> Data Insights &amp; Activation</a></strong></div>
       <p>
         [!DNL Analytics] と audience management
@@ -64,7 +64,7 @@ Adobeアプリケーションの設定には、環境に応じて様々な方法
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="大規模なPersonalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="大規模なPersonalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=ja"/></a>
       <div><strong><a href="./personalization.md">Personalization （尺度） </a></strong></div>
       <p>
         すべての接続を個人用にする方法

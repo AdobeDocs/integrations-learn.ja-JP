@@ -52,7 +52,7 @@ Adobe[!DNL Analytics] とAdobe[!DNL Target] （A4T）を統合する主なメリ
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud コアサービス</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=ja" target="_blank" rel="noreferrer">Experience Cloud コアサービス</a></li>
                 </ul>
             </td>
             <td>

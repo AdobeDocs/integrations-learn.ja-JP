@@ -32,7 +32,7 @@ Adobe WorkfrontとAdobe Creative Cloudを統合する主なメリットは次の
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative CloudとWorkfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=ja" target="_blank" rel="noreferrer">Creative CloudとWorkfront</a></td>
             <td>ネイティブコネクタ</td>
             <td>
                 <ul style="margin-top: 0;">

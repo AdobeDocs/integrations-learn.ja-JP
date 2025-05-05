@@ -35,7 +35,7 @@ Adobe Audience ManagerとAdobe Real-Time CDPの統合には次のメリットが
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience ManagerとReal-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja" target="_blank" rel="noreferrer">Audience ManagerとReal-Time CDP</a>
             </td>
             <td>Adobe Audience Manager コネクタ</td>
             <td>

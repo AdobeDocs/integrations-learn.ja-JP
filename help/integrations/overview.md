@@ -18,10 +18,10 @@ Experience Cloud製品に精通しているが、統合の最適な方法がわ�
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="製品別" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="製品別" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=ja"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="ビジネスソリューション別" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="ビジネスソリューション別" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=ja"/></a>
    </td>  
 </tr>
 <tr>
