@@ -1,5 +1,5 @@
 ---
-title: Adobeお  [!DNL Analytics]  び顧客ジャーニーと Experience [!DNL Analytics] 2}Edge チュートリアルの統合 [!DNL Platform]
+title: Adobeお  [!DNL Analytics]  び顧客ジャーニーと Experience [!DNL Analytics] 2&rbrace;Edge チュートリアルの統合 [!DNL Platform]
 description: AEP Web SDK [!DNL Analytics] AEP Mobile SDK、またはEdge Networkサーバー API を使用して、Adobeをカスタマージャーニー [!DNL Analytics]  統合する方法について説明します。
 solution: Customer Journey [!DNL Analytics], [!DNL Analytics]
 feature: Integrations

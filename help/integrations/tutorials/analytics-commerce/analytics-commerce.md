@@ -39,8 +39,10 @@ ht-degree: 0%
 
 1. バックオフィスのAdobeー内から、資格情報を使用してモジュール [!DNL Commerce] 設定します。
    * まず、以下に示すように、[!DNL Commerce] サービスコネクタの設定を選択します。
+
      ![[!DNL Commerce] Services コネクタのセットアップ ](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * 次に、以下に示すように、Experience [!DNL Platform] コネクタの設定を行います。
+
      ![Experience [!DNL Platform] コネクタ ](./assets/analytics-commerce/experience-platform-connector.png)
 
 オンボーディングプロセスの各フェーズと手順について詳しくは、[Experience [!DNL Platform] connector の概要 ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"} の説明に従ってください。 Experience [!DNL Platform] コネクタのチュートリアルでは、各セクションについて詳しく説明し、質問があれば回答します。 残りのクイックセットアップ手順については、このチュートリアルを使用します。

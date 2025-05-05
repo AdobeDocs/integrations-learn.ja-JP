@@ -1,5 +1,5 @@
 ---
-title: Experience [!DNL Analytics] 2}Edge チュートリアルを使用したリアルタイム顧客データ  [!DNL Platform]  の統合 [!DNL Platform]
+title: Experience [!DNL Analytics] 2&rbrace;Edge チュートリアルを使用したリアルタイム顧客データ  [!DNL Platform]  の統合 [!DNL Platform]
 description: AEP Web SDK [!DNL Analytics] AEP Mobile SDK、またはEdge Networkサーバー API を使用して、Adobe [!DNL Platform]  リアルタイム顧客データ）を統合する方法を説明します。
 solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
 feature: Integrations
