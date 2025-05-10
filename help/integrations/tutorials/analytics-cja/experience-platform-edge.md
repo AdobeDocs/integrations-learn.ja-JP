@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>Edge Networkサーバー API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=ja" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
                 </ul>
        </ul>
     <li><i> （オプション） </i>. 複数のデータセットを使用する場合は、ユーザー ID をステッチして <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=ja" _target="_blank" rel="noopener noreferrer"> 結合されたデータセットを生成 </a> します。 1 つの [!DNL Analytics] データセットを使用する場合、または顧客ジャーニー[!DNL Analytics] で使用するすべてのデータセットに共通の ID が存在する場合、この手順はスキップします。</li>

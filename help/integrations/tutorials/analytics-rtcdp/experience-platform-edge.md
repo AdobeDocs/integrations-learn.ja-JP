@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>Edge Networkサーバー API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=ja" _target="_blank" rel="noopener noreferrer">チュートリアル</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja" _target="_blank" rel="noopener noreferrer">Experience [!DNL Platform] でセグメントを作成します。</a> セグメントをバッチ（データコネクタ）とストリーミング（Edge Network）のどちらで評価するかを自動で判断します。</li>
