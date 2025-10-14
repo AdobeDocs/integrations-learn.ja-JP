@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->これらのビデオでは、[!DNL Target] at.js および appMeasurement.js の実装と検証 [!DNL Analytics] ついて説明します。 両方のツールで必要なライブラリバージョンについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ja) を参照してください。
+>これらのビデオでは、[!DNL Target] at.js および appMeasurement.js の実装と検証 [!DNL Analytics] ついて説明します。 両方のツールで必要なライブラリバージョンについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ja) を参照してください。
 
 ### A4T の設定（[!DNL Target] の場合は [!DNL Analytics]）
 
