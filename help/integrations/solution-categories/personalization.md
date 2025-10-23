@@ -2,9 +2,9 @@
 title: 大規模なパーソナライゼーションのためのアプリケーション統合
 description: パーソナライズされたエクスペリエンスをすべての瞬間の一部にします。
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
   </thead>
   <tbody>
     <tr>
-      <td><strong>パーソナライズされたPDFドキュメントの作成</strong></td>
+      <td><strong>パーソナライズされたPDF ドキュメントの作成</strong></td>
       <td>
         ユーザーに基づいて署名するための通信ドキュメントを生成します
         選択/環境設定。
@@ -32,7 +32,7 @@ ht-degree: 1%
       <td>
         <ul style="margin-top: 0;">
           <li>
-            AEMからのデータに基づいて動的に生成された機密保持契約書（NDA）を提示する
+            AEMのデータに基づいて動的に生成された機密保持契約書（NDA）を提示
             署名用のForms送信
           </li>
         </ul>
@@ -76,8 +76,8 @@ ht-degree: 1%
     <tr>
       <td>
         パーソナライゼーションアクティビティ <br /> 最適化の分析のレポート
-        Adobe[!DNL Target] を利用した A/B テストを含むテスト結果
-        Adobe[!DNL Analytics] を通じた包括的なレポートの作成
+        Adobe [!DNL Target] を利用した A/B テストを含むテスト結果
+        Adobe [!DNL Analytics] を通じて包括的なレポートを生成する。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -97,7 +97,7 @@ ht-degree: 1%
       <td><strong>メール配信のパーソナライズ</strong></td>
       <td>
         を活用して、動的コンテンツでメール配信をパーソナライズします。
-        Adobe[!DNL Target] の機能。
+        Adobe [!DNL Target] の機能。
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -118,7 +118,7 @@ ht-degree: 1%
         <strong> パーソナライゼーションと広告プラットフォームのオーディエンスを拡張 </strong>
       </td>
       <td>
-        Audience Managerセグメントを使用した、Real-Time CDPでのオーディエンスの作成により、次のことを行えます
+        Audience Manager セグメントを使用した、Real-Time CDPでのオーディエンスの作成により、次のことを行えます
         パーソナライゼーションおよびリマーケティング戦術での使用。
       </td>
       <td>
@@ -135,7 +135,7 @@ ht-degree: 1%
             Audience Managerのサードパーティデータネットワークを活用して、さらに詳しく
             ターゲティングのためのオーディエンスの調整と拡張
           </li>
-          <li>RTCDP へのAudience Managerセグメントの共有</li>
+          <li>Audience Manager セグメントのRTCDPへの共有</li>
         </ul>
       </td>
       <td>
@@ -178,11 +178,11 @@ ht-degree: 1%
       <td rowspan="2"><strong>Web エクスペリエンスのパーソナライズ</strong></td>
       <td>
         単一ページアプリケーション（SPA）エクスペリエンスの効果的なカスタマイズ
-        AEM ヘッドレスとAdobe [!DNL Target] の連携の活用
+        Adobe [!DNL Target] と組み合わせたAEM ヘッドレスの利用。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>SPAとモバイルアプリのパーソナライゼーション</li>
+          <li>SPA とモバイルアプリのパーソナライズ機能</li>
           <li>パーソナライズされた API の応答。</li>
           <li>[!DNL Target]ed コンテンツ配信。</li>
           <li>A/B テストのバリエーション。</li>
@@ -200,14 +200,14 @@ ht-degree: 1%
     <tr>
       <td>
         AEM Sitesを有効活用してカスタマイズされた web サイトエクスペリエンスを提供
-        パーソナライゼーションのためのAdobe[!DNL Target]。
+        とAdobe [!DNL Target] を使用してパーソナライズ機能を実行できます。
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM web サイトのパーソナライゼーション。</li>
-          <li>Web サイトのコンテンツをパーソナライズする。</li>
-          <li>ユーザーエクスペリエンスを最適化します。</li>
+          <li>AEM web サイトのパーソナライズ機能。</li>
           <li>A/B テストのバリエーション。</li>
+          <li>ユーザー行動に基づく行動ターゲティング。</li>
+          <li>複数のシステムのユーザーデータを結び付けて、顧客の 360 度のビューを提供する、既知のユーザーのパーソナライゼーション。</li>
         </ul>
       </td>
       <td>
