@@ -113,6 +113,6 @@ ht-degree: 27%
       + [概要](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
       + [設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + ユースケース{#use-cases}
-         + [ 実験（A/B テスト） ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [&#x200B; 実験（A/B テスト） &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行動ターゲティング](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [ 既知のユーザーのPersonalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [&#x200B; 既知のユーザーのPersonalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
