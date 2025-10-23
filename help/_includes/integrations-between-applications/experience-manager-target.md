@@ -35,7 +35,7 @@ Adobe Experience ManagerとAdobeを一緒に使用する利点には、次の [!
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sitesと [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sitesと [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Adobe Experience ManagerとAdobeを一緒に使用する利点には、次の [!
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM ヘッドレスas a Cloud Serviceと [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=ja" target="_blank" rel="noreferrer">AEM ヘッドレスas a Cloud Serviceと [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK タグ拡張機能または alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
