@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について学びます。
 mini-toc-levels: 1
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 27%
+source-wordcount: '145'
+ht-degree: 26%
 
 ---
 
@@ -110,9 +110,10 @@ ht-degree: 27%
          + [Adobe GenStudioでのレビューと承認](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Adobe GenStudioでのバリアントの作成](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Managerと Target{#experience-manager-target}
-      + [概要](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [概要](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [ ライブデモ ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + ユースケース{#use-cases}
-         + [&#x200B; 実験（A/B テスト） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [ 実験（A/B テスト） ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行動ターゲティング](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [&#x200B; 既知のユーザーのPersonalization](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [ 既知のユーザーのPersonalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
