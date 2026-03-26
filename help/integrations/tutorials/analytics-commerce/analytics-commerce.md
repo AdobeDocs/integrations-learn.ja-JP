@@ -29,31 +29,31 @@ ht-degree: 2%
 1. ローカル環境でコードをチェックアウトする
 1. コンポーザーとインストールモジュールの使用
 1. ここで個々の指示に従い、完了したら戻って残りの手順を完了します
-   [Experience [!DNL Platform]  コネクタ ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}をインストールして設定します
+   [Experience [!DNL Platform]  コネクタ &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}をインストールして設定します
 
 
 1. composer.jsonをコミットし、クラウド上の場合はcomposer.lock ファイルをコミットします
 1. モジュールがステージング環境または実稼動環境にあることを確認します
 これを行うには、Adobe [!DNL Commerce]の管理セクションにログインし、システム/サービスの下でこれらの新しいセクションを探します
-   ![ エクスペリエンス [!DNL Platform] コネクタ拡張機能](./assets/analytics-commerce/admin-view-experience-platform-commector-extension.png)
+   ![&#x200B; エクスペリエンス [!DNL Platform] コネクタ拡張機能](./assets/analytics-commerce/admin-view-experience-platform-commector-extension.png)
 
 1. Adobe [!DNL Commerce] バックオフィス内から資格情報を使用してモジュールを設定します。
    * 最初に、以下に示すように、[!DNL Commerce] サービスコネクタの設定を行います。
      ![[!DNL Commerce] サービスコネクタの設定](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * 次に、次に示すように、Experience [!DNL Platform] コネクタの設定を行います。
-     ![ エクスペリエンス [!DNL Platform] コネクタ ](./assets/analytics-commerce/experience-platform-connector.png)
+     ![&#x200B; エクスペリエンス [!DNL Platform] コネクタ &#x200B;](./assets/analytics-commerce/experience-platform-connector.png)
 
 オンボーディングプロセスの各フェーズと手順の詳細については、[Experience [!DNL Platform]  コネクタの概要](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}の手順に従ってください。 Experience [!DNL Platform] コネクタのチュートリアルでは、各セクションについて詳しく説明し、質問に答えることができます。 残りのクイック設定手順については、このチュートリアルを使用してください。
 
 ## Experience EdgeとAdobeの設定[!DNL Analytics]
 
-1. お客様の組織がAdobe [!DNL Analytics]へのアクセス権を持っている（および持っている）ことを確認します。 これは、[Adobe Experience Cloudのホームページ ](https://experience.adobe.com/)に移動し、上部ナビゲーションのアプリケーションスイッチャー（9つのドット）をクリックすることで確認できます。
+1. お客様の組織がAdobe [!DNL Analytics]へのアクセス権を持っている（および持っている）ことを確認します。 これは、[Adobe Experience Cloudのホームページ &#x200B;](https://experience.adobe.com/)に移動し、上部ナビゲーションのアプリケーションスイッチャー（9つのドット）をクリックすることで確認できます。
 
 1. Adobe [!DNL Analytics]で新しいレポートスイートを作成するか、[!DNL Commerce] データをプッシュするレポートスイートのIDを特定します。 詳しくは、[新しいレポートスイートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)に関するチュートリアルをご覧ください。 以下のデータストリーム手順で、このレポートスイート IDが必要になります。
 
-1. Experience [!DNL Platform]へのアクセス権がある場合は、[Adobe Experience [!DNL Platform]  インターフェイス ](https://platform.adobe.com)に移動します。 そのインターフェイスにアクセスできない場合は、Adobe Experience [!DNL Platform] [Data Collection インターフェイス ](https://experience.adobe.com/#/data-collection)で、次に示す必要なすべての手順を実行できます。
+1. Experience [!DNL Platform]へのアクセス権がある場合は、[Adobe Experience [!DNL Platform]  インターフェイス &#x200B;](https://platform.adobe.com)に移動します。 そのインターフェイスにアクセスできない場合は、Adobe Experience [!DNL Platform] [Data Collection インターフェイス &#x200B;](https://experience.adobe.com/#/data-collection)で、次に示す必要なすべての手順を実行できます。
 
-1. [!DNL Commerce]固有のフィールドグループを使用してXDM スキーマを作成または更新します。 スキーマの作成方法について詳しくは、[ 「スキーマの作成」 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja) チュートリアルを参照してください。
+1. [!DNL Commerce]固有のフィールドグループを使用してXDM スキーマを作成または更新します。 スキーマの作成方法について詳しくは、[&#x200B; 「スキーマの作成」 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja) チュートリアルを参照してください。
    * このスキーマは、以下のデータストリーム手順のオプションから選択する必要があります。 スキーマを作成するには、**データ管理**&#x200B;の下の左側の列で&#x200B;**スキーマ**&#x200B;を見つけます。 インターフェイスの右上にある「**スキーマを作成**」をクリックします。 XDM ExperienceEventを選択します。
    * 新しいスキーマを作成した後、[!DNL Commerce] フィールドグループを追加します。 UIの左側で、「フィールドグループ」を見つけて、**追加**&#x200B;をクリックします
       * 検索では、`ExperienceEvent Commerce`と入力してフィルタリングできます
@@ -72,7 +72,7 @@ ht-degree: 2%
    * インターフェイスの右上にある「**新しいデータストリーム**」をクリックします。
    * 名前とオプションの説明を入力します。
    * 前の手順で作成/識別したスキーマを検索して選択します。
-   * 必要に応じて詳細オプションを追加します。 詳細オプションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=ja)を参照してください。
+   * 必要に応じて詳細オプションを追加します。 詳細オプションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=ja)を参照してください。
    * **保存**&#x200B;をクリックして続行します。
    * 「**サービスを追加**」をクリックし、ドロップダウンフィールドで「**Adobe[!DNL Analytics]**」を選択します。
    * 「**レポートスイートを追加**」をクリックし、前の手順で作成または識別したレポートスイート IDを入力します。 複数のレポートスイートにデータを流し込む場合は、複数のレポートスイートを追加できます。
@@ -81,7 +81,7 @@ ht-degree: 2%
 
 1. 最後に、[!DNL Commerce] データを表示するには、Adobe [!DNL Analytics]でAnalysis Workspaceに移動し、プロジェクトを作成し、レポートスイートを選択し、フリーフォームテーブルやその他のビジュアライゼーションを追加して、[!DNL Commerce] データをレポートおよび分析する必要があります。 次の図は、Analysis Workspaceで作成できるテーブルの一例を示しています。
 
-   ![[!DNL Analytics] コマースデータのスクリーンショット ](./assets/analytics-commerce/analytics-screenshot-commerce-items.png)
+   ![[!DNL Analytics] コマースデータのスクリーンショット &#x200B;](./assets/analytics-commerce/analytics-screenshot-commerce-items.png)
 
    ここでは、Analysis Workspaceを活用するための資料をいくつか紹介します。
 

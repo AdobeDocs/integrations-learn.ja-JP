@@ -30,13 +30,13 @@ _複数の[!DNL Platform] ネイティブアプリケーション_&#x200B;とア
 
 ## カスタマージャーニー [!DNL Analytics]
 
-* [ [!DNL Analytics]様と](../cja/customer-journey-analytics-analytics.md)
+* [&#x200B; [!DNL Analytics]様と](../cja/customer-journey-analytics-analytics.md)
 * [Real-Time CDPで実現](../cja/cja-rtcdp.md)
 
 ## リアルタイム顧客データ [!DNL Platform]
 
-* [ [!DNL Analytics]様と](../rtcdp/rtcdp-analytics.md)
+* [&#x200B; [!DNL Analytics]様と](../rtcdp/rtcdp-analytics.md)
 * [Audience Managerで実現](../rtcdp/rtcdp-aam.md)
-* [ [!DNL Campaign] v8で](../rtcdp/rtcdp-campaign.md)
+* [&#x200B; [!DNL Campaign] v8で](../rtcdp/rtcdp-campaign.md)
 * [お客様のジャーニー [!DNL Analytics]](../rtcdp/rtcdp-cja.md)
-* [ [!DNL Target]様と](../rtcdp/rtcdp-target.md)
+* [&#x200B; [!DNL Target]様と](../rtcdp/rtcdp-target.md)
