@@ -1,6 +1,6 @@
 ---
-title: AEM AssetsとGenStudio for Performance Marketingの統合のチュートリアル
-description: AEMでのアセットのアップロードと承認から、GenStudio for Performance Marketingでのアセットの使用に至るまで、AEM AssetsとGenStudio for Performance Marketingの使用方法を説明します。
+title: AEM AssetsとGenStudio for Performance Marketingの連携のチュートリアル
+description: AEMでのアセットのアップロードや承認から、GenStudio for Performance Marketingでのアセットの使用まで、AEM AssetsとGenStudio for Performance Marketingの使用方法について説明します。
 solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -13,9 +13,9 @@ last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
 index: true
 hidefromtoc: false
-badgeIntegration: label="AEM Asset とGenStudio for Performance Marketing" type="positive"
+badgeIntegration: label="AEM AssetとGenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 # AEM AssetsとGenStudio for Performance Marketingのチュートリアル
 
-[‹ AEM AssetsとGenStudio for Performance Marketingの概要に戻る](./overview.md)
+[‹ AEM AssetsとGenStudio for Performance Marketingに戻る概要](./overview.md)
 
-AEM Assets as a Cloud ServiceとGenStudio for Performance Marketingの統合の使用、AEM Assetsへのアセットのアップロード、AEM Assetsでのアセットの承認、GenStudio for Performance Marketingでの承認済みアセットの使用に関する基本について説明します。
+AEM Assets as a Cloud ServiceとGenStudio for Performance Marketingの統合の使用、AEM Assetsへのアセットのアップロード、AEM Assetsでのアセットの承認、GenStudio for Performance Marketingでの承認済みアセットの使用の基本について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439278/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)

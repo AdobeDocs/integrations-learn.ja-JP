@@ -1,56 +1,56 @@
 ---
-title: Real-Time CDPとの at [!DNL Target] js および destination [!DNL Target]  の統合
-description: Real-Time CDPと at.js および  [!DNL Target] destination の統合方法を説明  [!DNL Target]  ます。
+title: Real-Time CDPと [!DNL Target] をat.jsおよび [!DNL Target] destinationと統合
+description: Real-Time CDPと [!DNL Target] をat.jsおよび [!DNL Target] destinationと統合する方法について説明します。
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 index: true
 hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="統合" type="positive"
 exl-id: 4cd856a8-2c92-42e2-b259-2bcdc517a706
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Real-Time CDPと [!DNL Target] を at.js と [!DNL Target] の宛先に統合する
+# Real-Time CDPと[!DNL Target]をat.jsおよび[!DNL Target]の宛先と統合
 
 >[!IMPORTANT]
 >
->at.js と統合する場合、次のセッションのパーソナライゼーションのみが可能であることに注意してください。
+>at.jsと統合する場合は、次セッションのパーソナライゼーションのみが可能であることに注意してください。
 
 
-## Adobe Real-Time CDPとAdobe[!DNL Target] を使用した次のヒットのパーソナライゼーション
+## Adobe Real-Time CDPとAdobeによる次のヒットのパーソナライゼーション [!DNL Target]
 
-統合の概要とデモをご覧ください。
+統合の概要とデモを見る。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
 
-## Real-time Customer Data [!DNL Platform] でのAdobe[!DNL Target] 宛先の設定
+## Real-Time Customer Data [!DNL Platform]でAdobe [!DNL Target]の宛先を設定
 
-Real-time Customer Data [!DNL Platform] でAdobe[!DNL Target] 宛先を設定する方法を説明します。
+Real-Time Customer Data [!DNL Platform]でAdobe [!DNL Target]の宛先を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449794/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
-## Adobe[!DNL Target] ーザーに対するセグメントとプロファイル属性のアクティブ化
+## Adobe [!DNL Target]へのセグメントとプロファイル属性のアクティブ化
 
-Adobeの Real-time Customer Data [!DNL Platform] からAdobe[!DNL Target] ーザーに対してセグメントとプロファイル属性をアクティブ化する方法について説明します。
+Adobe Real-Time Customer Data [!DNL Platform]からAdobe [!DNL Target]にセグメントとプロファイル属性をアクティブ化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447356/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
-## Adobe[!DNL Target] でのReal-Time CDP セグメントの使用
+## Adobe [!DNL Target]でのReal-Time CDP セグメントの使用
 
-Adobe[!DNL Target] で Real-time Customer Data [!DNL Platform] セグメントを使用する方法について説明します。
+Adobe [!DNL Target]でReal-Time Customer Data [!DNL Platform] セグメントを使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446828/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
-## Adobe[!DNL Target] でのReal-Time CDP プロファイル属性の使用
+## Adobe [!DNL Target]でのReal-Time CDP プロファイル属性の使用
 
-Adobe[!DNL Target] でAdobeの Real-time Customer Data [!DNL Platform] プロファイル属性を使用する方法を説明します。
+Adobe [!DNL Target]でAdobe Real-Time Customer Data [!DNL Platform] プロファイル属性を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451894/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
