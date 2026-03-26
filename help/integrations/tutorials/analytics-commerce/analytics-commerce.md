@@ -29,7 +29,7 @@ ht-degree: 2%
 1. ローカル環境でコードをチェックアウトする
 1. コンポーザーとインストールモジュールの使用
 1. ここで個々の指示に従い、完了したら戻って残りの手順を完了します
-   [Experience [!DNL Platform]  コネクタ &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}をインストールして設定します
+   [Experience [!DNL Platform]  コネクタ &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=ja){target="_blank"}をインストールして設定します
 
 
 1. composer.jsonをコミットし、クラウド上の場合はcomposer.lock ファイルをコミットします
@@ -43,13 +43,13 @@ ht-degree: 2%
    * 次に、次に示すように、Experience [!DNL Platform] コネクタの設定を行います。
      ![&#x200B; エクスペリエンス [!DNL Platform] コネクタ &#x200B;](./assets/analytics-commerce/experience-platform-connector.png)
 
-オンボーディングプロセスの各フェーズと手順の詳細については、[Experience [!DNL Platform]  コネクタの概要](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}の手順に従ってください。 Experience [!DNL Platform] コネクタのチュートリアルでは、各セクションについて詳しく説明し、質問に答えることができます。 残りのクイック設定手順については、このチュートリアルを使用してください。
+オンボーディングプロセスの各フェーズと手順の詳細については、[Experience [!DNL Platform]  コネクタの概要](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=ja){target="_blank"}の手順に従ってください。 Experience [!DNL Platform] コネクタのチュートリアルでは、各セクションについて詳しく説明し、質問に答えることができます。 残りのクイック設定手順については、このチュートリアルを使用してください。
 
 ## Experience EdgeとAdobeの設定[!DNL Analytics]
 
 1. お客様の組織がAdobe [!DNL Analytics]へのアクセス権を持っている（および持っている）ことを確認します。 これは、[Adobe Experience Cloudのホームページ &#x200B;](https://experience.adobe.com/)に移動し、上部ナビゲーションのアプリケーションスイッチャー（9つのドット）をクリックすることで確認できます。
 
-1. Adobe [!DNL Analytics]で新しいレポートスイートを作成するか、[!DNL Commerce] データをプッシュするレポートスイートのIDを特定します。 詳しくは、[新しいレポートスイートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)に関するチュートリアルをご覧ください。 以下のデータストリーム手順で、このレポートスイート IDが必要になります。
+1. Adobe [!DNL Analytics]で新しいレポートスイートを作成するか、[!DNL Commerce] データをプッシュするレポートスイートのIDを特定します。 詳しくは、[新しいレポートスイートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja)に関するチュートリアルをご覧ください。 以下のデータストリーム手順で、このレポートスイート IDが必要になります。
 
 1. Experience [!DNL Platform]へのアクセス権がある場合は、[Adobe Experience [!DNL Platform]  インターフェイス &#x200B;](https://platform.adobe.com)に移動します。 そのインターフェイスにアクセスできない場合は、Adobe Experience [!DNL Platform] [Data Collection インターフェイス &#x200B;](https://experience.adobe.com/#/data-collection)で、次に示す必要なすべての手順を実行できます。
 
@@ -85,9 +85,9 @@ ht-degree: 2%
 
    ここでは、Analysis Workspaceを活用するための資料をいくつか紹介します。
 
-   * [Analysis Workspaceの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [Workspaceプロジェクトをゼロから構築](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
-   * [Analysis Workspaceでのテーブル、ビジュアライゼーションおよびパネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [視覚化のユースケース](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Analysis Workspaceの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=ja)
+   * [Workspaceプロジェクトをゼロから構築](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=ja)
+   * [Analysis Workspaceでのテーブル、ビジュアライゼーションおよびパネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=ja)
+   * [視覚化のユースケース](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=ja)
 
-   さらに、Experience Leagueでは無料のコースを利用できます。 利用可能な[!DNL Analytics]件のコース [こちら](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses)を参照してください。
+   さらに、Experience Leagueでは無料のコースを利用できます。 利用可能な[!DNL Analytics]件のコース [こちら](https://experienceleague.adobe.com/ja?lang=en&Solution=Analytics#courses)を参照してください。

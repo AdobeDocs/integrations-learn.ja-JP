@@ -40,13 +40,13 @@ Adobe GenStudioとAEM Assets as a Cloud ServiceおよびGenStudio for Performanc
 <!--
 CARDS 
 
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
+* https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
+* https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
-* https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
+* https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
-   {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
+   {image=https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -55,8 +55,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="AEM Assetsの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="AEM Assetsの設定"
+                    <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/video-playlists/assets-view" title="AEM Assetsの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="AEM Assetsの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,11 +64,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assetsの設定">AEM Assetsの設定</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assetsの設定">AEM Assetsの設定</a>
                     </p>
                     <p class="is-size-6">AssetsビューでAEM Assets as a Cloud Serviceを操作する方法について、製品に関する知識を深めることを目的とした厳選されたビデオプレイリストをご確認ください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -101,8 +101,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" title="GenStudio for Performance Marketingの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="GenStudio for Performance Marketingの設定"
+                    <a href="https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/get-started" title="GenStudio for Performance Marketingの設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="GenStudio for Performance Marketingの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,11 +110,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="GenStudio for Performance Marketingの設定">GenStudio for Performance Marketingの設定</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="GenStudio for Performance Marketingの設定">GenStudio for Performance Marketingの設定</a>
                     </p>
                     <p class="is-size-6">パフォーマンスマーケティング用の GenStudio の使用を開始して、ブランドに合わせた新しいマーケティングコンテンツを生成する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
