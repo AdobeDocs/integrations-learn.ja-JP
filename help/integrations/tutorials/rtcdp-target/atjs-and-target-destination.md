@@ -35,22 +35,22 @@ ht-degree: 0%
 
 Real-Time Customer Data [!DNL Platform]でAdobe [!DNL Target]の宛先を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449794/?captions=jpn&learn=on)
 
 ## Adobe [!DNL Target]へのセグメントとプロファイル属性のアクティブ化
 
 Adobe Real-Time Customer Data [!DNL Platform]からAdobe [!DNL Target]にセグメントとプロファイル属性をアクティブ化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447356/?captions=jpn&learn=on)
 
 ## Adobe [!DNL Target]でのReal-Time CDP セグメントの使用
 
 Adobe [!DNL Target]でReal-Time Customer Data [!DNL Platform] セグメントを使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446828/?captions=jpn&learn=on)
 
 ## Adobe [!DNL Target]でのReal-Time CDP プロファイル属性の使用
 
 Adobe [!DNL Target]でAdobe Real-Time Customer Data [!DNL Platform] プロファイル属性を使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451894/?captions=jpn&learn=on)

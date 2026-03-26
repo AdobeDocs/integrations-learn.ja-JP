@@ -24,7 +24,7 @@ ht-degree: 3%
 
 # AEM AssetsとGenStudio for Performance Marketingを使用したAdobe GenStudio
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439267/?captions=jpn&learn=on)
 
 Adobe GenStudioとAEM Assets as a Cloud Serviceの強力な機能を活用して、パフォーマンスマーケティングワークフローを変革しましょう。 シームレスな統合により、一元化されたリポジトリからブランド承認済みのアセットにアクセスし、あらゆるキャンペーンやチャネル向けに一貫性のある高品質なコンテンツを作成できます。 これらのツールが、どのようにAdobe supply chainのコンテンツを合理化し、マーケティング効果を高めるかをご確認ください。
 
@@ -83,7 +83,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439278/?captions=jpn&format=jpeg&nocache=1739560516243" alt="GenStudio for Performance MarketingとAEM Assetsの基本を学ぶ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +122,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudioの簡単なレビューと承認" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Adobe GenStudioの簡単なレビューと承認"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439289/?captions=jpn&format=jpeg&nocache=1739560516635" alt="Adobe GenStudioの簡単なレビューと承認"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Adobe GenStudioでバリエーションを制作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Adobe GenStudioでバリエーションを制作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439300/?captions=jpn&format=jpeg&nocache=1739560516573" alt="Adobe GenStudioでバリエーションを制作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

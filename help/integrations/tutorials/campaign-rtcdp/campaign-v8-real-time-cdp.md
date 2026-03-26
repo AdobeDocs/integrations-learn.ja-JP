@@ -26,10 +26,10 @@ ht-degree: 1%
 
 Amazon S3接続タイプを使用して、Adobe Experience [!DNL Platform] セグメントを宛先にアクティベートする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453122?captions=jpn&quality=12&learn=on)
 
 ## エクスペリエンス [!DNL Platform]から受信者データをインポートしてメールを送信する
 
 Adobe Experience [!DNL Platform]から[!DNL Campaign]に受信者データを読み込むために、Adobe [!DNL Campaign]で外部アカウントを設定する方法について説明します。 エクスペリエンス [!DNL Platform]から受信した受信者をアップロードおよびターゲティングするワークフローを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453478?captions=jpn&quality=12&learn=on)
