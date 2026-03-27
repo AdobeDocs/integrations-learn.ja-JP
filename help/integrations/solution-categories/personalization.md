@@ -235,7 +235,7 @@ ht-degree: 1%
       </td>
       <td>
         <a
-          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          href="https://experienceleague.adobe.com/ja/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
           target="_blank"
           rel="noopener noreferrer"
           >AEM Sitesと[!DNL Target]</a
