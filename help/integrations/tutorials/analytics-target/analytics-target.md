@@ -7,13 +7,12 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="統合" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 9%
@@ -29,7 +28,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->これらのビデオでは、[!DNL Target] at.jsおよび[!DNL Analytics] appMeasurement.jsの実装と検証を示します。 両方のツールで必要なライブラリバージョンについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ja)を参照してください。
+>これらのビデオでは、[!DNL Target] at.jsおよび[!DNL Analytics] appMeasurement.jsの実装と検証を示します。 両方のツールで必要なライブラリバージョンについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)を参照してください。
 
 ### A4T （[!DNL Analytics] for [!DNL Target]）をセットアップしています
 
@@ -48,7 +47,7 @@ ht-degree: 9%
 * A4Tの仕組み？
 * A4Tを使用するための前提条件は何ですか？
 
->[!VIDEO](https://video.tv.adobe.com/v/3421727/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
 
 
 ## よくあるユースケース
@@ -59,13 +58,13 @@ ht-degree: 9%
 
 [!DNL Target] （A4T）用の[!DNL Analytics] パネルを使用すると、Analysis WorkspaceでAdobe [!DNL Target]のアクティビティとエクスペリエンスを上昇率と信頼性で分析できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/326710/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### A4T パネルを使用した自動[!DNL Target] アクティビティの分析
 
 このビデオでは、[!DNL Target] パネルの[!DNL Analytics]を使用して、自動[!DNL Target] テストの結果を視覚化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412970/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 また、「自動割り当て」および「自動ターゲティング」アクティビティ用にAnalysis WorkspaceでA4T レポートを設定するための詳細を示す2つのステップバイステップチュートリアルもあります。
 

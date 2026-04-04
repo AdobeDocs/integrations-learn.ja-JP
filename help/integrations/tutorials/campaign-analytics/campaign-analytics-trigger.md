@@ -7,13 +7,12 @@ topic: Integrations
 role: Admin
 level: Experienced
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="統合" type="positive"
 exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 46%
@@ -32,22 +31,22 @@ Adobe Experience [!DNL Platform] Data Collectionを使用し、web サイトに�
 >
 > LaunchはAdobe Experience [!DNL Platform]のタグ機能になりました。 **Adobe エクスペリエンス [!DNL Platform] データ収集**&#x200B;の下にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454017?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
 ## Experience Cloud でのトリガーの作成
 
 Experience Cloud でトリガーを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446139?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
 ## [!DNL Campaign] Standardでのトリガーの作成
 
 [!DNL Campaign] Standardでトリガーイベントを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446410?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
 ## リアルタイムイベントデータを使用したトランザクションメッセージの設定
 
 トリガーから得られるリアルタイムイベントデータを使用してトランザクションメッセージを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450203?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
