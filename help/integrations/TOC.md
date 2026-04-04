@@ -93,7 +93,7 @@ ht-degree: 32%
    + [!DNL Analytics] および [!DNL Target]{#analytics-target}
       + {hide-from-toc}[[!DNL Analytics] および [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] および [!DNL Analytics]{#campaign-analytics}
-      + トリガーチュートリアル ](./tutorials/campaign-analytics/campaign-analytics-trigger.md)を使用して{hide-from-toc}[Standardと [!DNL Analytics] 統合 [!DNL Campaign] する
+      + &lbrack;トリガーチュートリアル を使用して{hide-from-toc}[Standardと [!DNL Analytics] 統合 [!DNL Campaign] する](./tutorials/campaign-analytics/campaign-analytics-trigger.md)./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign]とExperience Manager {#campaign-experience-manager}
       + {hide-from-toc}[[!DNL Campaign] v8とExperience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign]とReal-Time CDP{#campaign-real-time-cdp}
