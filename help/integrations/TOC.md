@@ -110,10 +110,10 @@ ht-degree: 32%
          + [Adobe GenStudioでのレビューと承認](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Adobe GenStudioでバリエーションを制作](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience ManagerとTarget{#experience-manager-target}
-      + [概要](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [概要](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/overview)
       + [ライブデモ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + ユースケース{#use-cases}
-         + [A/B テストによる検証](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [A/B テストによる検証](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行動ターゲティング](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
          + [既知のユーザーに関するPersonalization](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
