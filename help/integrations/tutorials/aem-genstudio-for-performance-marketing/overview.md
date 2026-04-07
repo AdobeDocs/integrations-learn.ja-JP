@@ -12,13 +12,12 @@ duration: 133
 last-substantial-update: 2024-11-21T00:00:00Z
 jira: KT-16480
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM AssetとGenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '744'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -135,7 +134,7 @@ CARDS
                     <p class="is-size-6">AEM Assetsでアセットをアップロード、レビュー、承認するユースケースを紹介し、GenStudio for Performance Marketingでアセットを使用できるようにします。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
                 </a>
             </div>
         </div>
@@ -158,7 +157,7 @@ CARDS
                     <p class="is-size-6">AEM AssetsとAdobe Expressを使用して、メールやMetaの広告で使用するアセットのバリエーションを制作し、同じマーケティング体験をプロモーションするユースケースを紹介します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
                 </a>
             </div>
         </div>

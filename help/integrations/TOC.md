@@ -3,27 +3,27 @@ user-guide-title: Experience Cloud 統合チュートリアル
 breadcrumb-title: Experience Cloud の統合
 user-guide-description: 統合について学びます。
 mini-toc-levels: 1
-source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 26%
+source-wordcount: '226'
+ht-degree: 32%
 
 ---
 
 
-# [!DNL Experience Cloud] 統合チュートリアル {#experience-cloud}
+# [!DNL Experience Cloud]統合チュートリアル {#experience-cloud}
 
-+ [[!DNL Experience Cloud] 統合](./overview.md)
-+ ソリューションカテゴリ{#solution-categories}
++ [[!DNL Experience Cloud]統合](./overview.md)
++ ソリューションのカテゴリ{#solution-categories}
    + [概要](./solution-categories/overview.md)
    + [B2B マーケティング](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [コンテンツ管理](./solution-categories/content-management.md)
-   + [コンテンツsupply chain](./solution-categories/content-supply-chain.md)
+   + [Content supply chain](./solution-categories/content-supply-chain.md)
    + [カスタマージャーニー](./solution-categories/customer-journeys.md)
-   + [データインサイトとアクティブ化](./solution-categories/data-insights.md)
-   + [大規模なPersonalization](./solution-categories/personalization.md)
-+ 製品の統合{#integrations-between-applications}
+   + [データインサイトとアクティベーション](./solution-categories/data-insights.md)
+   + [Personalizationの大量運用](./solution-categories/personalization.md)
++ 製品との統合{#integrations-between-applications}
    + [概要](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -56,15 +56,15 @@ ht-degree: 26%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
-      + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
+      + {hide-from-toc}[GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + {hide-from-toc}[[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + Experience [!DNL Platform]{#experience-platform}
+   + エクスペリエンス [!DNL Platform]{#experience-platform}
       + [概要](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
-      + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
+      + {hide-from-toc}[[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
       + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
    + [!DNL Real-Time CDP]{#rtcdp}
@@ -83,37 +83,37 @@ ht-degree: 26%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + チュートリアル{#tutorials}
    + [!DNL Analytics] および [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] と  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
-   + [!DNL Analytics] とCJA{#analytics-cja}
-      + [[!DNL Analytics] とCJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics] とCJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
-   + [!DNL Analytics] とReal-Time CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] および [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+   + [!DNL Analytics]とCJA{#analytics-cja}
+      + {hide-from-toc}[[!DNL Analytics] とCJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] とCJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+   + [!DNL Analytics]とReal-Time CDP{#analytics-real-time-cdp}
+      + {hide-from-toc}[[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] とReal-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] および [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] と  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + {hide-from-toc}[[!DNL Analytics] および [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] および [!DNL Analytics]{#campaign-analytics}
-      + [統合  [!DNL Campaign]  標準とトリガーの使用  [!DNL Analytics]  チュートリアル](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] とExperience Manager {#campaign-experience-manager}
-      + [[!DNL Campaign] v8 とExperience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
-   + [!DNL Campaign] とReal-Time CDP{#campaign-real-time-cdp}
-      + [[!DNL Campaign] v8 とReal-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + リアルタイム CDP{#rtcdp-target}
-      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [Real-Time CDPと  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+      + {hide-from-toc} [Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers tutorial](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+   + [!DNL Campaign]とExperience Manager {#campaign-experience-manager}
+      + {hide-from-toc}[[!DNL Campaign] v8とExperience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
+   + [!DNL Campaign]とReal-Time CDP{#campaign-real-time-cdp}
+      + {hide-from-toc}[[!DNL Campaign] v8とReal-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
+   + Adobe Real-Time CDP{#rtcdp-target}
+      + {hide-from-toc}[Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDPと [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance MarketingとExperience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [概要](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [設定](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [統合のチュートリアル](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + ユースケース{#use-cases}
          + [Adobe GenStudioでのレビューと承認](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-         + [Adobe GenStudioでのバリアントの作成](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
-   + Experience Managerと Target{#experience-manager-target}
+         + [Adobe GenStudioでバリエーションを制作](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience ManagerとTarget{#experience-manager-target}
       + [概要](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [&#x200B; ライブデモ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [ライブデモ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/live-demo)
       + [設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + ユースケース{#use-cases}
-         + [&#x200B; 実験（A/B テスト） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [A/B テストによる検証](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [行動ターゲティング](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [&#x200B; 既知のユーザーのPersonalization](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [既知のユーザーに関するPersonalization](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
