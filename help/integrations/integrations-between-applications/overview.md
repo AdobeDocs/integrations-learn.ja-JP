@@ -2,19 +2,23 @@
 title: 統合設定 – アプリケーション別
 description: アプリケーション別に整理された、Experience Cloud の一般的な統合設定について学ぶ。
 exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
-source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
+TQID: https://experienceleague.adobe.com/adVjPeUtnqkTu7X7znd-8nRq6bwcMtVYe7q-RrPEPNU
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 107
 ht-degree: 10%
 
 ---
 
-# Experience Cloudの統合設定 – アプリケーション別に整理
+# Experience Cloudの統合設定 – アプリケーション別
 
-この節では、複数のAdobe アプリケーションを統合することによりビジネス価値を生み出したいと考えている、Adobe アプリケーションに精通したユーザーを支援します。 Adobe エンタープライズアプリケーションの多くの共通統合設定を整理し、実際のユースケースにマッピングしました。
+このセクションでは、Adobe アプリケーションに精通しており、複数のAdobe アプリケーションを統合してビジネス価値を生み出したい人を支援します。 アドビでは、Adobeエンタープライズアプリケーションの一般的な統合設定を数多く用意し、それらを実際のユースケースにマッピングしました。
 
-Adobe アプリケーションを設定する方法は、環境に応じて多数あります。 この節では、現状のままデプロイする、または環境のニーズに合わせて変更する際に役立つガイダンスを提供します。
+Adobe アプリケーションは、環境に応じて様々な方法で設定できます。 このセクションでは、そのままデプロイするか、環境のニーズに合わせて変更するためのガイダンスを提供します。
 
 >[!NOTE]
 >
->左へのナビゲーションを使用して、ニーズに合った統合を見つけます。
+>左側のナビゲーションを使用して、ニーズに適した統合を見つけます。
