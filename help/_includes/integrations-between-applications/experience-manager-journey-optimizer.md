@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 
@@ -13,21 +13,21 @@ ht-degree: 3%
 
 {{experience-manager-description}}
 
-Adobe Journey OptimizerとExperience Manager Assets Essentials の統合には、次のようないくつかの利点があります。
+Adobe Journey OptimizerとExperience Manager Assets Essentialsの連携には、次のような利点があります。
 
-+ **効率的なコンテンツ配信**：パーソナライズされたコンテンツでシームレスに共同作業を行います。
++ **効率的なコンテンツ配信**: パーソナライズされたコンテンツでシームレスに共同作業を行います。
 + **マーケティング効率の向上**：時間を節約し、キャンペーンの一貫性を確保します。
-+ **データ駆動型パーソナライゼーション**：貴重なインサイトを使用してコンテンツを調整します。
-+ **バージョン管理とガバナンス**：一貫性のあるブランドメッセージを維持します。
-+ **コラボレーションの効率化**：チームワークとスムーズなワークフローを促進します。
++ **データ主導のパーソナライゼーション**：貴重なインサイトを活用してコンテンツをカスタマイズします。
++ **バージョン管理とガバナンス**：一貫したブランドメッセージを維持します。
++ **コラボレーションの合理化**: チームワークとスムーズなワークフローを促進します。
 
-## 一般的な統合
+## 共通の統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloudアプリケーション</th>
-            <th>を使用した統合</th>
+            <th>Experience Cloud製品</th>
+            <th>を使用して統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
@@ -35,14 +35,14 @@ Adobe Journey OptimizerとExperience Manager Assets Essentials の統合には�
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ja" target="_blank" rel="noreferrer">Journey OptimizerとAEM Assets Essentials</a></td>
-            <td>Asset Essentials はJourney Optimizerに組み込まれています</td>
+            <td>Asset EssentialsはJourney Optimizerに組み込まれており</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>承認済みのブランドアセットを使用してマーケティング用販促物を作成する必要がある場合。</li>
+                    <li>承認済みのブランドアセットを使用してマーケティング資料を作成する必要がある場合。</li>
                 </ul>
             </td>
             <td>
-                <ul style="margin-top: 0;"><li>Journey OptimizerのメールDesignerを使用してコンテンツを作成します。</li></ul>
+                <ul style="margin-top: 0;"><li>Journey Optimizerの電子メールDesignerを使用したコンテンツ制作。</li></ul>
             </td>
         </tr>        
     </tbody>          
