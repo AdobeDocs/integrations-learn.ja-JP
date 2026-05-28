@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 2%
 
 ---
@@ -13,18 +13,18 @@ ht-degree: 2%
 
 {{marketo-description}}
 
-Experience ManagerとMarketo Engageの統合には、次のようないくつかの利点があります。
+Experience ManagerとMarketo Engageを連携すると、次のような利点があります。
 
-+ **フォームの作成と管理**:AEM Formsでは、インタラクティブフォームを簡単に作成でき、Marketo Engageと統合してリードジェネレーションを実現できます。
-+ **データ同期**: AEM Formsは、フォームの送信データをMarketo Engageに同期し、効率的なリードキャプチャと管理を実現します。
-+ **リードの育成とキャンペーンの自動処理**:AEM FormsをMarketo Engageと統合して、シームレスなリード転送、自動フォローアップ、ターゲットメール、リードトラッキングを行います。
++ **フォームの作成と管理**: AEM Formsを使用すると、インタラクティブなフォームを簡単に作成でき、Marketo Engageと統合してリードジェネレーションを行うことができます。
++ **データの同期**: AEM Formsは、送信されたフォームをMarketo Engageに同期し、効率的なリード獲得と管理を実現します。
++ **リードナーチャリングとキャンペーンの自動化**: AEM FormsとMarketo Engageを統合して、シームレスなリード転送、自動フォローアップ、ターゲットを絞ったメール、リード追跡を実現します。
 
-## 一般的な統合
+## 共通の統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloudアプリケーション</th>
+            <th>Experience Cloud製品</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
@@ -34,14 +34,14 @@ Experience ManagerとMarketo Engageの統合には、次のようないくつか
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=ja" target="_blank" rel="noreferrer">Experience Manager FormsとMarketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>ユーザーのデジタルフォーム送信に基づいてリードを生成する場合。</li>
+                    <li>オーディエンスのデジタルフォーム送信にもとづいてリードを生成したい場合。</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>見込み客を価値あるリードに変換する。</li>                  
-                  <li>ビジネスの成長と販売の可能性を最大化します。</li>
-                  <li>リード属性を同期させます。</li>
+                  <li>潜在顧客を価値のあるリードに転換。</li>                  
+                  <li>ビジネスの成長とセールスの可能性を最大化。</li>
+                  <li>リード属性の同期：</li>
                 </ul>
             </td>
         </tr>        
