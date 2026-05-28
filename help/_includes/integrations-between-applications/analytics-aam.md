@@ -57,7 +57,7 @@ Adobe [!DNL Analytics]とAudience Managerを連携する主な利点は次のと
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Managerが[!DNL Analytics]</a>にデータを送り返しています
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja" target="_blank" rel="noreferrer">Audience Managerが[!DNL Analytics]</a>にデータを送り返しています
             </td>
             <td>サーバーサイド転送が有効になっているAdobe [!DNL Analytics] タグ拡張機能またはAppMeasurement.js</td>
             <td>

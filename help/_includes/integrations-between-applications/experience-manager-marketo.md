@@ -31,7 +31,7 @@ Experience ManagerとMarketo Engageを連携すると、次のような利点が
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager FormsとMarketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=ja" target="_blank" rel="noreferrer">Experience Manager FormsとMarketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>オーディエンスのデジタルフォーム送信にもとづいてリードを生成したい場合。</li>

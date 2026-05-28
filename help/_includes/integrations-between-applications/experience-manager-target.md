@@ -35,7 +35,7 @@ Adobe Experience ManagerとAdobe [!DNL Target]を一緒に使用するメリッ�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sitesおよび [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sitesおよび [!DNL Target]</a></td>
             <td>[!DNL Platform]個のWeb SDK タグ拡張機能またはalloy.jsを体験</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Adobe Experience ManagerとAdobe [!DNL Target]を一緒に使用するメリッ�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM ヘッドレス as a Cloud Serviceと [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=ja" target="_blank" rel="noreferrer">AEM ヘッドレス as a Cloud Serviceと [!DNL Target]</a></td>
             <td>[!DNL Platform]個のWeb SDK タグ拡張機能またはalloy.jsを体験</td>
             <td>
               <ul style="margin-top: 0;">

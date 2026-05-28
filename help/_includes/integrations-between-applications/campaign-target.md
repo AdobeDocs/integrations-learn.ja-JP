@@ -31,7 +31,7 @@ Adobe [!DNL Campaign]とAdobe [!DNL Target]を使用して、メールコンテ�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 （と） [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 （と） [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>実際にイベントを起こしたいとします。</li>

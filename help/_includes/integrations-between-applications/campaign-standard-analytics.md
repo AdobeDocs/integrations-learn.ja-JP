@@ -33,7 +33,7 @@ Adobe [!DNL Analytics]とAdobe [!DNL Campaign]の統合により、シームレ�
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 次で標準 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics]と管理者設定にリンクされた外部[!DNL Campaign] アカウント [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=ja" target="_blank" rel="noreferrer">Adobe [!DNL Analytics]と管理者設定にリンクされた外部[!DNL Campaign] アカウント [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Adobe [!DNL Analytics]で[!DNL Campaign]から直接メール配信の成果を追跡する場合。</li>
