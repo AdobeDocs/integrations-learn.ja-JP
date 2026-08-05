@@ -48,7 +48,7 @@ ht-degree: 0%
 
 統合の概要とデモを見る。
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342979?captions=jpn&quality=12&learn=on)
 
 
 ## Real-Time Customer Data [!DNL Platform]でAdobe [!DNL Target]の宛先を設定
