@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
+source-wordcount: '237'
+ht-degree: 2%
 
 ---
 
@@ -13,56 +13,56 @@ ht-degree: 1%
 
 {{workfront-description}}
 
-AEMとWorkfrontにより、コンテンツ制作が合理化され、管理されたコンテンツがWorkfrontからAEMにシームレスに読み込まれて効率的に編成およびアクセスできるようになり、タイムリーで高品質なデジタルアセット配信が保証されます。 主なメリットは次のとおりです。
+AEMとWorkfrontを利用すれば、コンテンツ制作を合理化できます。WorkfrontからAEMに、管理されたコンテンツをシームレスに読み込み、効率的にアセットを整理およびアクセスして、タイムリーで高品質なデジタルアセット配信を実現できます。 主なメリットは次のとおりです。
 
-+ **コンテンツ制作の効率化**:AEMとAdobe Workfrontの統合により、エンドツーエンドのコンテンツ制作プロセスが最適化されます。
-+ **共同作業の強化**：チームはコンテンツプロジェクトでシームレスに共同作業を行い、コミュニケーションと効率を向上させることができます。
-+ **リソース管理の向上**:Workfrontのプロジェクトトラッキング機能により、リソースの割り当てと使用率を向上できます。
-+ **効率的な承認とレビュー**: AEMとWorkfrontの統合により、コンテンツのレビューと承認のワークフローが合理化されます。
-+ **市場投入までの時間の短縮**：この組み合わせソリューションは、コンテンツ配信を高速化し、キャンペーンやアセットの市場投入までの時間を短縮します。
++ **コンテンツ制作の効率化**: AEMとAdobe Workfrontの統合により、エンドツーエンドのコンテンツ制作プロセスが最適化されます。
++ **コラボレーションの強化**: コンテンツプロジェクトでシームレスにコラボレーションし、より優れたコミュニケーションと効率性を促進できます。
++ **リソース管理の改善**: Workfrontのプロジェクト追跡機能により、リソースの割り当てと利用率が向上しました。
++ **効率的な承認とレビュー**: AEMとWorkfrontの統合により、コンテンツのレビューと承認のワークフローが効率化されます。
++ **市場投入までの時間を短縮**：この統合ソリューションは、コンテンツ配信を加速させ、キャンペーンとアセットの市場投入までの時間を短縮します。
 
-## 一般的な統合
+## 共通の統合
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloudアプリケーション</th>
-            <th>を使用した統合</th>
+            <th>Experience Cloud アプリケーション</th>
+            <th>を使用して統合</th>
             <th>使用するタイミング</th>
             <th>よくあるユースケース</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja" target="_blank" rel="noreferrer">WorkfrontとAEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">WorkfrontとAEM Assets Essentials</a></td>
             <td>ネイティブコネクタ</td>
             <td>
               <ul style="margin-top: 0;">
-                <li>デジタルアセットを管理するための基本的な DAM 機能とシンプルなユーザーインターフェイスが必要な場合。</li>
-                <li>チームの経験が浅い場合や、基本的な DAM 機能のみが必要な場合。</li>
+                <li>基本的なDAM機能と、デジタルアセットを管理するための簡素化されたユーザーインターフェイスが必要な場合。</li>
+                <li>DAMの経験が不足している、または基本的な能力しか必要ない場合。</li>
               </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>作業中のアセット作成の管理</li>
-                  <li>コンテンツベロシティの向上</li>
+                  <li>作業中のアセット作成を管理。</li>
+                  <li>コンテンツベロシティの加速。</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=ja" target="_blank" rel="noreferrer">WorkfrontとAEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">WorkfrontとAEM Assets</a></td>
             <td>拡張コネクタ</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>組織が既にAEM Assetsを実装している場合。</li>
-                    <li>カスタムフィールド、ステータス、ワークフローなどの高度なWorkfront機能が必要な場合。</li>
-                    <li>DAM ユーザーの経験があり、高度な DAM 機能が必要な場合。</li>
+                    <li>AEM Assetsを実装している場合。</li>
+                    <li>カスタムフィールド、ステータス、ワークフローなど、高度なWorkfront機能が必要な場合。</li>
+                    <li>DAM利用者の経験があり、高度なDAM機能が必要な場合。</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>最終アセットの管理</li>
-                <li>企業全体でのアセットの共有。</li>
+                <li>最終アセットの管理：</li>
+                <li>企業全体でアセットを共有：</li>
               </ul>
             </td>
         </tr>
