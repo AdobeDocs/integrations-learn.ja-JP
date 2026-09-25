@@ -32,7 +32,7 @@ ht-degree: 8%
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites as Cloud Serviceおよび [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">[!DNL Commerce]統合フレームワークを使用して単一のストアフロントを作成する（CIF）</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Commerce]統合フレームワークを使用して単一のストアフロントを作成する（CIF）</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEMで単一のストアフロントを設定する場合。</li>
@@ -48,7 +48,7 @@ ht-degree: 8%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">[!DNL Commerce]統合フレームワーク（CIF）を使用して複数のストアフロントを作成する</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=ja" target="_blank" rel="noreferrer">[!DNL Commerce]統合フレームワーク（CIF）を使用して複数のストアフロントを作成する</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEMで複数のストアフロントを設定する場合。</li>
