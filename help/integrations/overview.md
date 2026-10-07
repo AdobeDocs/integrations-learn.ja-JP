@@ -5,20 +5,20 @@ exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
 TQID: https://experienceleague.adobe.com/TQeDwtLluKJYg-j7LUqXGkb6aluY4UqYAfpyzWZ5sKQ
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Integrations
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # Experience Cloud アプリケーションの統合設定
 
-Experience Cloud製品をご存じですが、どのように統合するのが最善か判断できていますか？ 自社のビジネス目標を把握していても、どのアプリケーションを使用すべきかわからないという方は、 じゃあ君は正しい場所に来たんだね！
+Adobe Experience Cloud製品をご存じですが、どのように統合するのが最善か判断できていますか？ 自社のビジネス目標を把握していても、どのアプリケーションを使用すべきかわからないという方は、 じゃあ君は正しい場所に来たんだね！
 
-ここでは、Experience Cloudの一般的な連携機能の一部を紹介します。 構成オプションは環境に応じて異なるので、ビジネスソリューションと製品ごとに統合を整理しました。 これらのチュートリアルやビデオをそのままデプロイするためのガイダンスとして使用するか、環境のニーズに合わせて変更することができます。
+これらのExperience Cloud統合チュートリアルでは、利用可能な最も一般的な製品統合について説明します。 構成オプションは環境に応じて異なるので、ビジネスソリューションと製品ごとに統合を整理しました。 これらのチュートリアルやビデオをそのままデプロイするためのガイダンスとして使用するか、環境のニーズに合わせて変更することができます。
 
 <table>
 <tr>
