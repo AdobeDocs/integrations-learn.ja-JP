@@ -30,7 +30,7 @@ AEMとExperience [!DNL Platform]を統合すると、次のようなメリット
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience ManagerとExperience [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=ja" target="_blank" rel="noreferrer">Experience ManagerとExperience [!DNL Platform]</a></td>
             <td>[!DNL Platform] Web SDKを体験</td>
             <td>
                 <ul style="margin-top: 0;">
