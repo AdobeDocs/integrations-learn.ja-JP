@@ -106,7 +106,7 @@ ht-degree: 9%
 * [!DNL Analytics]と[!DNL Target]のリクエストがSDIDを使用してどのようにバインドされるかを説明します
 * Adobe [!DNL Target] （A4T）を使用したAdobe [!DNL Analytics]の実装要件について説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507689/?captions=jpn&quality=12&learn=on)
 
 ### [!DNL Analytics]を[!DNL Target]のData Sourceとして使用
 
